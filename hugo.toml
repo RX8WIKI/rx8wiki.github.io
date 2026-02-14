@@ -1,0 +1,10 @@
+baseURL = "https://rx8wiki.github.io/"
+languageCode = "ru"
+title = "RX-8 Wiki"
+
+theme = "hugo-book"
+
+enableRobotsTXT = true
+
+[params]
+  BookTheme = 'auto'
