@@ -1,0 +1,45 @@
+.wiki-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.wiki-card {
+  border: 1px solid #222;
+  padding: 20px;
+  border-radius: 12px;
+  transition: 0.2s ease;
+}
+
+.wiki-card:hover {
+  border-color: #e10600;
+  box-shadow: 0 0 15px rgba(225,6,0,0.3);
+}
+
+.wiki-card h2 {
+  margin-top: 0;
+  border-bottom: 1px solid #222;
+  padding-bottom: 10px;
+}
+
+.wiki-card ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.wiki-card li {
+  margin: 8px 0;
+}
+
+.wiki-card a {
+  text-decoration: none;
+}
+
+.wiki-card a:hover {
+  color: #e10600;
+}
+
+.problem {
+  color: #ff4d4d;
+}

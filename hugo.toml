@@ -8,3 +8,8 @@ enableRobotsTXT = true
 
 [params]
   BookTheme = 'auto'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

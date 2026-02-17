@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/engine/</loc>
+    <loc>http://localhost:1313/docs/dvigatel/oil/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/engine/oil/</loc>
+    <loc>http://localhost:1313/docs/ekspluataciya/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/electrics/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/problemy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/tuning/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/akkumulyator/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
