@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="http://localhost:1313/docs/ekspluataciya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ЧаВо (FAQ)</title>
+      <link>http://localhost:1313/docs/ekspluataciya/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/ekspluataciya/faq/</guid>
+      <description>&lt;h1 id=&#34;чаво-faq&#34;&gt;ЧаВо (FAQ)&lt;a class=&#34;anchor&#34; href=&#34;#%d1%87%d0%b0%d0%b2%d0%be-faq&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;какие-коробки-передач-устанавливаются-на-rx-8&#34;&gt;Какие коробки передач устанавливаются на RX-8&lt;a class=&#34;anchor&#34; href=&#34;#%d0%ba%d0%b0%d0%ba%d0%b8%d0%b5-%d0%ba%d0%be%d1%80%d0%be%d0%b1%d0%ba%d0%b8-%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%b0%d1%87-%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d1%8e%d1%82%d1%81%d1%8f-%d0%bd%d0%b0-rx-8&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;На RX-8 устанавливались следующие типы трансмиссий:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;4-ступенчатая АКПП&lt;/strong&gt; — с начала выпуска, для двигателей Standard Power&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;6-ступенчатая АКПП&lt;/strong&gt; — с 2006 года, для двигателей High Power (мощность снижена до 215 л.с.)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;5-ступенчатая МКПП&lt;/strong&gt; — с начала выпуска, для двигателей Standard Power&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;6-ступенчатая МКПП&lt;/strong&gt; — с начала выпуска, для двигателей High Power&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;📌 Автомобили с АКПП продавались только в США и Японии.&lt;br&gt;&#xA;Поставки версий с автоматической коробкой передач в Европу не осуществлялись.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

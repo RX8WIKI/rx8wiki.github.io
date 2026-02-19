@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/docs/dvigatel/oil/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/faq/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/</loc>
@@ -25,6 +27,8 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/compression/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
