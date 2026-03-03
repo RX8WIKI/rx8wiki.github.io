@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/dvigatel/diagnostika/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/dvigatel/oil/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/faq/</loc>
@@ -10,6 +12,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/zamer_kompressii/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/masla/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/</loc>
@@ -17,18 +21,54 @@
   </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/grafik_to/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/dorabotki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/benzin/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/zimnij_sezon/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/problemy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/remont/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/svechi_katushki/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/hodovaya/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/antifriz/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/raskoksovka/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/tuning/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/vozdushnyj_filtr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/dokumentaciya/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/maslyanye_forsunki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/katalizator/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/kody_ce/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/akkumulyator/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/komplektacii/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/toplivnaya_sistema/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/gbo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/cvet_kuzova/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/nomera_zapchastej/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/rpd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/ekspluataciya/aksessuary/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/dvigatel/vankel/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>

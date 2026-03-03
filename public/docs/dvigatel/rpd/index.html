@@ -1,0 +1,1488 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="
+Роторно-Поршневой Двигатель (РПД)#Роторный двигатель Ванкеля — сердце Mazda RX-8. Это статья об устройстве, принципе работы, преимуществах и недостатках роторного двигателя.
+История создания#Изобретатель: Феликс Ванкель (Felix Wankel)
+Год изобретения: 1957
+Первый автомобиль: NSU Spider (1964)
+Mazda и РПД: С 1967 года (Cosmo Sport)
+Mazda — единственный массовый производитель, продолжающий использовать роторные двигатели в серийных автомобилях.
+Устройство роторного двигателя#Основные компоненты#Компонент Назначение Ротор Поршень треугольной формы Корпус (статор) Рабочая камера с эпитрохоидальной поверхностью Эксцентриковый вал Преобразует движение ротора во вращение Апексы Уплотнения вершин ротора Боковые уплотнения Уплотнения по бокам ротора Уплотнения между окнами Разделяют впускные/выпускные окна Конструкция 13B-MSP (RX-8)#Параметр Значение Тип 2-роторный, атмосферный Объём 1.3 л (654 cc × 2) Мощность 192 л.с. (стандарт) / 231 л.с. (Sport) Крутящий момент 216 Нм Степень сжатия 10.0:1 Обороты отсечки 7500 об/мин Вес ~113 кг (полный) Обозначение 13B-MSP:
+">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/docs/dvigatel/rpd/">
+  <meta property="og:site_name" content="RX-8 Wiki">
+  <meta property="og:title" content="Роторно-Поршневой ДВС">
+  <meta property="og:description" content="Роторно-Поршневой Двигатель (РПД)#Роторный двигатель Ванкеля — сердце Mazda RX-8. Это статья об устройстве, принципе работы, преимуществах и недостатках роторного двигателя.
+История создания#Изобретатель: Феликс Ванкель (Felix Wankel)
+Год изобретения: 1957
+Первый автомобиль: NSU Spider (1964)
+Mazda и РПД: С 1967 года (Cosmo Sport)
+Mazda — единственный массовый производитель, продолжающий использовать роторные двигатели в серийных автомобилях.
+Устройство роторного двигателя#Основные компоненты#Компонент Назначение Ротор Поршень треугольной формы Корпус (статор) Рабочая камера с эпитрохоидальной поверхностью Эксцентриковый вал Преобразует движение ротора во вращение Апексы Уплотнения вершин ротора Боковые уплотнения Уплотнения по бокам ротора Уплотнения между окнами Разделяют впускные/выпускные окна Конструкция 13B-MSP (RX-8)#Параметр Значение Тип 2-роторный, атмосферный Объём 1.3 л (654 cc × 2) Мощность 192 л.с. (стандарт) / 231 л.с. (Sport) Крутящий момент 216 Нм Степень сжатия 10.0:1 Обороты отсечки 7500 об/мин Вес ~113 кг (полный) Обозначение 13B-MSP:">
+  <meta property="og:locale" content="ru">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+
+
+  <meta itemprop="name" content="Роторно-Поршневой ДВС">
+  <meta itemprop="description" content="Роторно-Поршневой Двигатель (РПД)#Роторный двигатель Ванкеля — сердце Mazda RX-8. Это статья об устройстве, принципе работы, преимуществах и недостатках роторного двигателя.
+История создания#Изобретатель: Феликс Ванкель (Felix Wankel)
+Год изобретения: 1957
+Первый автомобиль: NSU Spider (1964)
+Mazda и РПД: С 1967 года (Cosmo Sport)
+Mazda — единственный массовый производитель, продолжающий использовать роторные двигатели в серийных автомобилях.
+Устройство роторного двигателя#Основные компоненты#Компонент Назначение Ротор Поршень треугольной формы Корпус (статор) Рабочая камера с эпитрохоидальной поверхностью Эксцентриковый вал Преобразует движение ротора во вращение Апексы Уплотнения вершин ротора Боковые уплотнения Уплотнения по бокам ротора Уплотнения между окнами Разделяют впускные/выпускные окна Конструкция 13B-MSP (RX-8)#Параметр Значение Тип 2-роторный, атмосферный Объём 1.3 л (654 cc × 2) Мощность 192 л.с. (стандарт) / 231 л.с. (Sport) Крутящий момент 216 Нм Степень сжатия 10.0:1 Обороты отсечки 7500 об/мин Вес ~113 кг (полный) Обозначение 13B-MSP:">
+  <meta itemprop="wordCount" content="1019">
+
+<title>Роторно-Поршневой ДВС | RX-8 Wiki</title>
+<link rel="icon" href="/favicon.png" >
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/docs/dvigatel/rpd/">
+<link rel="stylesheet" href="/book.min.a4ea269e06a9cb700aee2795044b3f28a2ebba5e7a598f39ab1c644cb2bdea54.css" integrity="sha256-pOomngapy3AK7ieVBEs/KKLrul56WY85qxxkTLK96lQ=" crossorigin="anonymous">
+
+
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.da3c067cccb43db5eae80c39e775b652b5693bcd3120ea1e28c02777f82da369.js" integrity="sha256-2jwGfMy0PbXq6Aw553W2UrVpO80xIOoeKMAnd/gto2k=" crossorigin="anonymous"></script>
+
+
+
+  
+</head>
+<body dir="ltr" class="book-kind-page book-type-docs">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    
+<aside class="book-menu">
+  <div class="book-menu-content">
+    
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>RX-8 Wiki</span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input id="book-search-input" type="text" 
+    placeholder="Поиск"
+    aria-label="Поиск"
+    maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Эксплуатация</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/faq/" class="">
+      ЧаВо (FAQ)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/masla/" class="">
+      Масла</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/grafik_to/" class="">
+      График ТО</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/benzin/" class="">
+      Бензин</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/zimnij_sezon/" class="">
+      Зимний сезон</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/antifriz/" class="">
+      Антифриз</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/dokumentaciya/" class="">
+      Документация / Литература</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/kody_ce/" class="">
+      Коды Check Engine (CEL)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/komplektacii/" class="">
+      Комплектации</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/cvet_kuzova/" class="">
+      Таблица цветов кузова</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/nomera_zapchastej/" class="">
+      Номера запчастей-заменителей</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/ekspluataciya/aksessuary/" class="">
+      Оригинальные аксессуары</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Двигатель</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/diagnostika/" class="">
+      Диагностика (Симптомы)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/oil/" class="">
+      Моторное масло</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/zamer_kompressii/" class="">
+      Замер компрессии</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/dorabotki/" class="">
+      Доработки двигателя</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/remont/" class="">
+      Ремонт (Переборка)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/svechi_katushki/" class="">
+      Свечи и катушки зажигания</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/raskoksovka/" class="">
+      Раскоксовка</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/vozdushnyj_filtr/" class="">
+      Воздушный фильтр</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/maslyanye_forsunki/" class="">
+      Масляные форсунки</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/katalizator/" class="">
+      Катализатор и лямбда-зонды</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/toplivnaya_sistema/" class="">
+      Топливная система</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/gbo/" class="">
+      Газ (ГБО)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/rpd/" class="active">
+      Роторно-Поршневой ДВС</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/dvigatel/vankel/" class="">
+      Феликс Ванкель</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Электрика</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/electrics/akkumulyator/" class="">
+      Аккумулятор (АКБ)</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Проблемы</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Ходовая</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Тюнинг</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+
+  </div>
+</aside>
+ 
+
+    <div class="book-page">
+      <header class="book-header hidden">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/icons/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Роторно-Поршневой ДВС</h3>
+
+  <label for="toc-control">
+    
+    <img src="/icons/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#история-создания">История создания</a></li>
+    <li><a href="#устройство-роторного-двигателя">Устройство роторного двигателя</a>
+      <ul>
+        <li><a href="#основные-компоненты">Основные компоненты</a></li>
+        <li><a href="#конструкция-13b-msp-rx-8">Конструкция 13B-MSP (RX-8)</a></li>
+      </ul>
+    </li>
+    <li><a href="#принцип-работы">Принцип работы</a>
+      <ul>
+        <li><a href="#четыре-такта-в-роторном-двигателе">Четыре такта в роторном двигателе</a></li>
+        <li><a href="#1-впуск">1. Впуск</a></li>
+        <li><a href="#2-сжатие">2. Сжатие</a></li>
+        <li><a href="#3-рабочий-ход-сгорание">3. Рабочий ход (сгорание)</a></li>
+        <li><a href="#4-выпуск">4. Выпуск</a></li>
+        <li><a href="#соотношение-оборотов">Соотношение оборотов</a></li>
+      </ul>
+    </li>
+    <li><a href="#геометрия-работы">Геометрия работы</a>
+      <ul>
+        <li><a href="#эпитрохоида">Эпитрохоида</a></li>
+        <li><a href="#траектория-апекса">Траектория апекса</a></li>
+      </ul>
+    </li>
+    <li><a href="#система-смазки">Система смазки</a>
+      <ul>
+        <li><a href="#особенности-рпд">Особенности РПД</a></li>
+        <li><a href="#подача-масла">Подача масла</a></li>
+      </ul>
+    </li>
+    <li><a href="#система-зажигания">Система зажигания</a>
+      <ul>
+        <li><a href="#особенности">Особенности</a></li>
+        <li><a href="#почему-4-свечи">Почему 4 свечи?</a></li>
+      </ul>
+    </li>
+    <li><a href="#система-охлаждения">Система охлаждения</a>
+      <ul>
+        <li><a href="#особенности-рпд-1">Особенности РПД</a></li>
+        <li><a href="#почему-важен-температурный-режим">Почему важен температурный режим?</a></li>
+      </ul>
+    </li>
+    <li><a href="#преимущества-рпд">Преимущества РПД</a>
+      <ul>
+        <li><a href="#сравнение-с-поршневым-двигателем">Сравнение с поршневым двигателем</a></li>
+      </ul>
+    </li>
+    <li><a href="#недостатки-рпд">Недостатки РПД</a>
+      <ul>
+        <li><a href="#экологические-нормы">Экологические нормы</a></li>
+      </ul>
+    </li>
+    <li><a href="#ресурс-двигателя">Ресурс двигателя</a>
+      <ul>
+        <li><a href="#факторы-влияния">Факторы влияния</a></li>
+        <li><a href="#ожидаемый-ресурс">Ожидаемый ресурс</a></li>
+      </ul>
+    </li>
+    <li><a href="#модификации-двигателя-13b">Модификации двигателя 13B</a>
+      <ul>
+        <li><a href="#renesis">Renesis</a></li>
+      </ul>
+    </li>
+    <li><a href="#будущее-рпд">Будущее РПД</a>
+      <ul>
+        <li><a href="#mazda-mx-30-r-ev-2023">Mazda MX-30 R-EV (2023)</a></li>
+        <li><a href="#водородный-рпд">Водородный РПД</a></li>
+      </ul>
+    </li>
+    <li><a href="#тюнинг-рпд">Тюнинг РПД</a>
+      <ul>
+        <li><a href="#базовый-stage-1">Базовый (Stage 1)</a></li>
+        <li><a href="#продвинутый-stage-23">Продвинутый (Stage 2–3)</a></li>
+        <li><a href="#турбирование">Турбирование</a></li>
+      </ul>
+    </li>
+    <li><a href="#интересные-факты">Интересные факты</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><p><img src="/images/rpd.svg" alt="РПД" /></p>
+<h1 id="роторно-поршневой-двигатель-рпд">Роторно-Поршневой Двигатель (РПД)<a class="anchor" href="#%d1%80%d0%be%d1%82%d0%be%d1%80%d0%bd%d0%be-%d0%bf%d0%be%d1%80%d1%88%d0%bd%d0%b5%d0%b2%d0%be%d0%b9-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8c-%d1%80%d0%bf%d0%b4">#</a></h1>
+<p>Роторный двигатель Ванкеля — сердце Mazda RX-8. Это статья об устройстве, принципе работы, преимуществах и недостатках роторного двигателя.</p>
+<h2 id="история-создания">История создания<a class="anchor" href="#%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f">#</a></h2>
+<p><strong>Изобретатель:</strong> Феликс Ванкель (Felix Wankel)<br>
+<strong>Год изобретения:</strong> 1957<br>
+<strong>Первый автомобиль:</strong> NSU Spider (1964)<br>
+<strong>Mazda и РПД:</strong> С 1967 года (Cosmo Sport)</p>
+<p>Mazda — единственный массовый производитель, продолжающий использовать роторные двигатели в серийных автомобилях.</p>
+<h2 id="устройство-роторного-двигателя">Устройство роторного двигателя<a class="anchor" href="#%d1%83%d1%81%d1%82%d1%80%d0%be%d0%b9%d1%81%d1%82%d0%b2%d0%be-%d1%80%d0%be%d1%82%d0%be%d1%80%d0%bd%d0%be%d0%b3%d0%be-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f">#</a></h2>
+<h3 id="основные-компоненты">Основные компоненты<a class="anchor" href="#%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d1%8b">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Компонент</th>
+          <th>Назначение</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Ротор</strong></td>
+          <td>Поршень треугольной формы</td>
+      </tr>
+      <tr>
+          <td><strong>Корпус (статор)</strong></td>
+          <td>Рабочая камера с эпитрохоидальной поверхностью</td>
+      </tr>
+      <tr>
+          <td><strong>Эксцентриковый вал</strong></td>
+          <td>Преобразует движение ротора во вращение</td>
+      </tr>
+      <tr>
+          <td><strong>Апексы</strong></td>
+          <td>Уплотнения вершин ротора</td>
+      </tr>
+      <tr>
+          <td><strong>Боковые уплотнения</strong></td>
+          <td>Уплотнения по бокам ротора</td>
+      </tr>
+      <tr>
+          <td><strong>Уплотнения между окнами</strong></td>
+          <td>Разделяют впускные/выпускные окна</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="конструкция-13b-msp-rx-8">Конструкция 13B-MSP (RX-8)<a class="anchor" href="#%d0%ba%d0%be%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-13b-msp-rx-8">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Параметр</th>
+          <th>Значение</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Тип</td>
+          <td>2-роторный, атмосферный</td>
+      </tr>
+      <tr>
+          <td>Объём</td>
+          <td>1.3 л (654 cc × 2)</td>
+      </tr>
+      <tr>
+          <td>Мощность</td>
+          <td>192 л.с. (стандарт) / 231 л.с. (Sport)</td>
+      </tr>
+      <tr>
+          <td>Крутящий момент</td>
+          <td>216 Нм</td>
+      </tr>
+      <tr>
+          <td>Степень сжатия</td>
+          <td>10.0:1</td>
+      </tr>
+      <tr>
+          <td>Обороты отсечки</td>
+          <td>7500 об/мин</td>
+      </tr>
+      <tr>
+          <td>Вес</td>
+          <td>~113 кг (полный)</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Обозначение 13B-MSP:</strong></p>
+<ul>
+<li><strong>13</strong> — рабочий объём (1.3 л)</li>
+<li><strong>B</strong> — серия двигателя</li>
+<li><strong>MSP</strong> — Multi Side Port (многосторонние порты)</li>
+</ul>
+<h2 id="принцип-работы">Принцип работы<a class="anchor" href="#%d0%bf%d1%80%d0%b8%d0%bd%d1%86%d0%b8%d0%bf-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b">#</a></h2>
+<h3 id="четыре-такта-в-роторном-двигателе">Четыре такта в роторном двигателе<a class="anchor" href="#%d1%87%d0%b5%d1%82%d1%8b%d1%80%d0%b5-%d1%82%d0%b0%d0%ba%d1%82%d0%b0-%d0%b2-%d1%80%d0%be%d1%82%d0%be%d1%80%d0%bd%d0%be%d0%bc-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d0%b5">#</a></h3>
+<p>В отличие от поршневого двигателя, где такты разделены во времени, в РПД они разделены <strong>пространственно</strong>.</p>
+<pre tabindex="0"><code>        ВПУСК → СЖАТИЕ → РАБОЧИЙ ХОД → ВЫПУСК
+           ↓         ↓           ↓          ↓
+    Сектор A  Сектор B  Сектор C  Сектор D</code></pre><h3 id="1-впуск">1. Впуск<a class="anchor" href="#1-%d0%b2%d0%bf%d1%83%d1%81%d0%ba">#</a></h3>
+<p><strong>Что происходит:</strong></p>
+<ul>
+<li>Топливно-воздушная смесь поступает через впускное окно</li>
+<li>Ротор открывает впускное окно</li>
+<li>Смесь заполняет рабочую камеру</li>
+</ul>
+<p><strong>Положение ротора:</strong> 0°–90°</p>
+<h3 id="2-сжатие">2. Сжатие<a class="anchor" href="#2-%d1%81%d0%b6%d0%b0%d1%82%d0%b8%d0%b5">#</a></h3>
+<p><strong>Что происходит:</strong></p>
+<ul>
+<li>Ротор продолжает вращение</li>
+<li>Объём камеры уменьшается</li>
+<li>Смесь сжимается</li>
+<li>Давление растёт до 8–10 бар</li>
+</ul>
+<p><strong>Положение ротора:</strong> 90°–180°</p>
+<h3 id="3-рабочий-ход-сгорание">3. Рабочий ход (сгорание)<a class="anchor" href="#3-%d1%80%d0%b0%d0%b1%d0%be%d1%87%d0%b8%d0%b9-%d1%85%d0%be%d0%b4-%d1%81%d0%b3%d0%be%d1%80%d0%b0%d0%bd%d0%b8%d0%b5">#</a></h3>
+<p><strong>Что происходит:</strong></p>
+<ul>
+<li>Свеча зажигания воспламеняет смесь</li>
+<li>Давление газов толкает ротор</li>
+<li>Эксцентриковый вал вращается</li>
+<li>Вырабатывается мощность</li>
+</ul>
+<p><strong>Положение ротора:</strong> 180°–270°</p>
+<p><strong>Температура сгорания:</strong> 2000–2500°C</p>
+<h3 id="4-выпуск">4. Выпуск<a class="anchor" href="#4-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba">#</a></h3>
+<p><strong>Что происходит:</strong></p>
+<ul>
+<li>Открывается выпускное окно</li>
+<li>Выхлопные газы выходят</li>
+<li>Ротор готовится к новому циклу</li>
+</ul>
+<p><strong>Положение ротора:</strong> 270°–360°</p>
+<h3 id="соотношение-оборотов">Соотношение оборотов<a class="anchor" href="#%d1%81%d0%be%d0%be%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be%d0%b1%d0%be%d1%80%d0%be%d1%82%d0%be%d0%b2">#</a></h3>
+<p><strong>Важно:</strong> Ротор вращается в 3 раза медленнее эксцентрикового вала!</p>
+<table>
+  <thead>
+      <tr>
+          <th>Ротор</th>
+          <th>Эксцентриковый вал</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>1 оборот</td>
+          <td>3 оборота</td>
+      </tr>
+      <tr>
+          <td>3000 об/мин</td>
+          <td>9000 об/мин</td>
+      </tr>
+      <tr>
+          <td>Макс. 3000 об/мин</td>
+          <td>Макс. 9000 об/мин</td>
+      </tr>
+  </tbody>
+</table>
+<p>Это означает, что при 9000 об/мин на тахометре ротор вращается со скоростью 3000 об/мин.</p>
+<h2 id="геометрия-работы">Геометрия работы<a class="anchor" href="#%d0%b3%d0%b5%d0%be%d0%bc%d0%b5%d1%82%d1%80%d0%b8%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b">#</a></h2>
+<h3 id="эпитрохоида">Эпитрохоида<a class="anchor" href="#%d1%8d%d0%bf%d0%b8%d1%82%d1%80%d0%be%d1%85%d0%be%d0%b8%d0%b4%d0%b0">#</a></h3>
+<p>Корпус ротора имеет форму <strong>эпитрохоиды</strong> — сложной кривой, которая обеспечивает:</p>
+<ul>
+<li>Постоянный контакт апексов с поверхностью</li>
+<li>Изменение объёма камер при вращении</li>
+<li>Разделение впускной/выпускной зон</li>
+</ul>
+<p><strong>Математическая формула:</strong></p>
+<pre tabindex="0"><code>x = (R-r)·cos(t) + d·cos((R-r)·t/r)
+y = (R-r)·sin(t) - d·sin((R-r)·t/r)</code></pre><p>Где:</p>
+<ul>
+<li>R — радиус статора</li>
+<li>r — радиус ротора (R/3)</li>
+<li>d — эксцентриситет</li>
+<li>t — угол поворота</li>
+</ul>
+<h3 id="траектория-апекса">Траектория апекса<a class="anchor" href="#%d1%82%d1%80%d0%b0%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b8%d1%8f-%d0%b0%d0%bf%d0%b5%d0%ba%d1%81%d0%b0">#</a></h3>
+<p>Апекс описывает сложную кривую, обеспечивая:</p>
+<ul>
+<li>Постоянный контакт с корпусом</li>
+<li>Разделение трёх рабочих камер</li>
+<li>Герметичность камеры сгорания</li>
+</ul>
+<h2 id="система-смазки">Система смазки<a class="anchor" href="#%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d1%81%d0%bc%d0%b0%d0%b7%d0%ba%d0%b8">#</a></h2>
+<h3 id="особенности-рпд">Особенности РПД<a class="anchor" href="#%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%80%d0%bf%d0%b4">#</a></h3>
+<p>В роторном двигателе масло используется для:</p>
+<ol>
+<li>Смазки подшипников и вала</li>
+<li>Смазки апексов и боковых уплотнений</li>
+<li>Охлаждения трущихся поверхностей</li>
+<li>Уплотнения зазоров</li>
+</ol>
+<h3 id="подача-масла">Подача масла<a class="anchor" href="#%d0%bf%d0%be%d0%b4%d0%b0%d1%87%d0%b0-%d0%bc%d0%b0%d1%81%d0%bb%d0%b0">#</a></h3>
+<p><strong>Система:</strong></p>
+<ol>
+<li>Масло из поддона → масляный насос</li>
+<li>Масляный насос → масляные форсунки</li>
+<li>Форсунки распыляют масло во впуск</li>
+<li>Масло смешивается с топливно-воздушной смесью</li>
+<li>Смазывает уплотнения и сгорает</li>
+</ol>
+<p><strong>Расход масла:</strong> 0.5–1.0 л на 3000–5000 км — это <strong>НОРМАЛЬНО</strong>!</p>
+<blockquote class='book-hint '>
+<p>⚠️ <strong>Важно:</strong> Низкий расход масла в РПД — это плохо! Значит уплотнения не смазываются.</p>
+</blockquote><h2 id="система-зажигания">Система зажигания<a class="anchor" href="#%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b7%d0%b0%d0%b6%d0%b8%d0%b3%d0%b0%d0%bd%d0%b8%d1%8f">#</a></h2>
+<h3 id="особенности">Особенности<a class="anchor" href="#%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8">#</a></h3>
+<ul>
+<li><strong>4 свечи зажигания</strong> (2 на каждый ротор)</li>
+<li>Раздельные катушки зажигания</li>
+<li>Последовательное искрообразование</li>
+</ul>
+<h3 id="почему-4-свечи">Почему 4 свечи?<a class="anchor" href="#%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-4-%d1%81%d0%b2%d0%b5%d1%87%d0%b8">#</a></h3>
+<p><strong>Причины:</strong></p>
+<ol>
+<li>Большая камера сгорания</li>
+<li>Быстрое и полное сгорание смеси</li>
+<li>Стабильная работа на высоких оборотах</li>
+<li>Снижение выбросов</li>
+</ol>
+<p><strong>Расположение:</strong></p>
+<ul>
+<li>2 свечи на передний ротор</li>
+<li>2 свечи на задний ротор</li>
+<li>Ведущие и ведомые свечи</li>
+</ul>
+<h2 id="система-охлаждения">Система охлаждения<a class="anchor" href="#%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%be%d1%85%d0%bb%d0%b0%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f">#</a></h2>
+<h3 id="особенности-рпд-1">Особенности РПД<a class="anchor" href="#%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%80%d0%bf%d0%b4-1">#</a></h3>
+<p>Роторный двигатель имеет сложную систему охлаждения:</p>
+<ol>
+<li><strong>Водяная рубашка</strong> вокруг корпуса</li>
+<li><strong>Отдельные зоны охлаждения</strong> для каждого ротора</li>
+<li><strong>Термостат</strong> для регулирования температуры</li>
+<li><strong>Радиатор</strong> повышенной эффективности</li>
+</ol>
+<p><strong>Рабочая температура:</strong> 85–95°C</p>
+<p><strong>Критическая температура:</strong> &gt; 110°C</p>
+<h3 id="почему-важен-температурный-режим">Почему важен температурный режим?<a class="anchor" href="#%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%b2%d0%b0%d0%b6%d0%b5%d0%bd-%d1%82%d0%b5%d0%bc%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc">#</a></h3>
+<p><strong>Перегрев (&gt; 110°C):</strong></p>
+<ul>
+<li>Деформация корпуса ротора</li>
+<li>Прогар уплотнений</li>
+<li>Разрушение апексов</li>
+<li>Заклинивание двигателя</li>
+</ul>
+<p><strong>Недогрев (&lt; 70°C):</strong></p>
+<ul>
+<li>Неполное сгорание топлива</li>
+<li>Повышенный износ</li>
+<li>Загрязнение свечей</li>
+</ul>
+<h2 id="преимущества-рпд">Преимущества РПД<a class="anchor" href="#%d0%bf%d1%80%d0%b5%d0%b8%d0%bc%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0-%d1%80%d0%bf%d0%b4">#</a></h2>
+<table>
+  <thead>
+      <tr>
+          <th>Преимущество</th>
+          <th>Описание</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Компактность</strong></td>
+          <td>В 2–3 раза меньше поршневого той же мощности</td>
+      </tr>
+      <tr>
+          <td><strong>Лёгкость</strong></td>
+          <td>Меньше движущихся частей</td>
+      </tr>
+      <tr>
+          <td><strong>Плавность работы</strong></td>
+          <td>Нет возвратно-поступательного движения</td>
+      </tr>
+      <tr>
+          <td><strong>Высокие обороты</strong></td>
+          <td>До 9000 об/мин без проблем</td>
+      </tr>
+      <tr>
+          <td><strong>Мощность с литра</strong></td>
+          <td>Высокая удельная мощность</td>
+      </tr>
+      <tr>
+          <td><strong>Низкий центр тяжести</strong></td>
+          <td>Лучшая развесовка автомобиля</td>
+      </tr>
+      <tr>
+          <td><strong>Простота конструкции</strong></td>
+          <td>Меньше деталей</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="сравнение-с-поршневым-двигателем">Сравнение с поршневым двигателем<a class="anchor" href="#%d1%81%d1%80%d0%b0%d0%b2%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81-%d0%bf%d0%be%d1%80%d1%88%d0%bd%d0%b5%d0%b2%d1%8b%d0%bc-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%bc">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Параметр</th>
+          <th>РПД 1.3 л</th>
+          <th>Поршневой 2.0 л</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Мощность</td>
+          <td>231 л.с.</td>
+          <td>200–220 л.с.</td>
+      </tr>
+      <tr>
+          <td>Вес</td>
+          <td>~113 кг</td>
+          <td>~150 кг</td>
+      </tr>
+      <tr>
+          <td>Размер</td>
+          <td>Компактный</td>
+          <td>Больше</td>
+      </tr>
+      <tr>
+          <td>Плавность</td>
+          <td>Отличная</td>
+          <td>Хорошая</td>
+      </tr>
+      <tr>
+          <td>Макс. обороты</td>
+          <td>9000 об/мин</td>
+          <td>7000 об/мин</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="недостатки-рпд">Недостатки РПД<a class="anchor" href="#%d0%bd%d0%b5%d0%b4%d0%be%d1%81%d1%82%d0%b0%d1%82%d0%ba%d0%b8-%d1%80%d0%bf%d0%b4">#</a></h2>
+<table>
+  <thead>
+      <tr>
+          <th>Недостаток</th>
+          <th>Описание</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Расход топлива</strong></td>
+          <td>Выше поршневых аналогов</td>
+      </tr>
+      <tr>
+          <td><strong>Расход масла</strong></td>
+          <td>Требует постоянной доливки</td>
+      </tr>
+      <tr>
+          <td><strong>Ресурс</strong></td>
+          <td>Меньше поршневых (100 000–150 000 км)</td>
+      </tr>
+      <tr>
+          <td><strong>Экология</strong></td>
+          <td>Сложнее соответствовать нормам</td>
+      </tr>
+      <tr>
+          <td><strong>Герметичность</strong></td>
+          <td>Износ уплотнений со временем</td>
+      </tr>
+      <tr>
+          <td><strong>Специалисты</strong></td>
+          <td>Мало сервисов, умеющих ремонтировать</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="экологические-нормы">Экологические нормы<a class="anchor" href="#%d1%8d%d0%ba%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%bd%d0%be%d1%80%d0%bc%d1%8b">#</a></h3>
+<p>РПД сложно соответствует нормам Euro 5 и выше из-за:</p>
+<ul>
+<li>Повышенного расхода масла (сгорает)</li>
+<li>Особенностей выхлопа</li>
+<li>Выбросов углеводородов</li>
+</ul>
+<p><strong>Mazda RX-8:</strong> Euro 4 (последняя модель с РПД)</p>
+<h2 id="ресурс-двигателя">Ресурс двигателя<a class="anchor" href="#%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f">#</a></h2>
+<h3 id="факторы-влияния">Факторы влияния<a class="anchor" href="#%d1%84%d0%b0%d0%ba%d1%82%d0%be%d1%80%d1%8b-%d0%b2%d0%bb%d0%b8%d1%8f%d0%bd%d0%b8%d1%8f">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Фактор</th>
+          <th>Влияние</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Стиль вождения</td>
+          <td>Активная езда снижает ресурс</td>
+      </tr>
+      <tr>
+          <td>Качество обслуживания</td>
+          <td>Регулярное ТО продлевает жизнь</td>
+      </tr>
+      <tr>
+          <td>Качество масла</td>
+          <td>Только рекомендованные марки</td>
+      </tr>
+      <tr>
+          <td>Прогрев</td>
+          <td>Обязателен перед поездкой</td>
+      </tr>
+      <tr>
+          <td>Охлаждение</td>
+          <td>Избегать перегрева</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="ожидаемый-ресурс">Ожидаемый ресурс<a class="anchor" href="#%d0%be%d0%b6%d0%b8%d0%b4%d0%b0%d0%b5%d0%bc%d1%8b%d0%b9-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Условия</th>
+          <th>Ресурс</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Идеальные</td>
+          <td>150 000–200 000 км</td>
+      </tr>
+      <tr>
+          <td>Нормальные</td>
+          <td>100 000–150 000 км</td>
+      </tr>
+      <tr>
+          <td>Тяжёлые</td>
+          <td>60 000–100 000 км</td>
+      </tr>
+      <tr>
+          <td>Экстремальные</td>
+          <td>30 000–60 000 км</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>После переборки:</strong> +50 000–100 000 км</p>
+<h2 id="модификации-двигателя-13b">Модификации двигателя 13B<a class="anchor" href="#%d0%bc%d0%be%d0%b4%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-13b">#</a></h2>
+<table>
+  <thead>
+      <tr>
+          <th>Версия</th>
+          <th>Годы</th>
+          <th>Мощность</th>
+          <th>Автомобиль</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>13B</strong></td>
+          <td>1972–1978</td>
+          <td>100–120 л.с.</td>
+          <td>Mazda Cosmo</td>
+      </tr>
+      <tr>
+          <td><strong>13B-DEI</strong></td>
+          <td>1984–1991</td>
+          <td>135–160 л.с.</td>
+          <td>RX-7 FC</td>
+      </tr>
+      <tr>
+          <td><strong>13B-REW</strong></td>
+          <td>1992–2002</td>
+          <td>255–280 л.с.</td>
+          <td>RX-7 FD (битурбо)</td>
+      </tr>
+      <tr>
+          <td><strong>13B-MSP</strong></td>
+          <td>2003–2012</td>
+          <td>192–231 л.с.</td>
+          <td>Mazda RX-8</td>
+      </tr>
+      <tr>
+          <td><strong>13B-MSP Renesis</strong></td>
+          <td>2003–2012</td>
+          <td>231 л.с.</td>
+          <td>RX-8 Sport</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="renesis">Renesis<a class="anchor" href="#renesis">#</a></h3>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>Боковые впускные порты (улучшенный впуск)</li>
+<li>4 свечи зажигания</li>
+<li>Улучшенная система сгорания</li>
+<li>Сниженный расход топлива</li>
+<li>Соответствие Euro 4</li>
+</ul>
+<h2 id="будущее-рпд">Будущее РПД<a class="anchor" href="#%d0%b1%d1%83%d0%b4%d1%83%d1%89%d0%b5%d0%b5-%d1%80%d0%bf%d0%b4">#</a></h2>
+<h3 id="mazda-mx-30-r-ev-2023">Mazda MX-30 R-EV (2023)<a class="anchor" href="#mazda-mx-30-r-ev-2023">#</a></h3>
+<p><strong>Новое поколение:</strong></p>
+<ul>
+<li>Роторный двигатель как <strong>генератор</strong> для электромобиля</li>
+<li>Не приводит колёса в движение</li>
+<li>Заряжает батарею</li>
+<li>Работает в оптимальном режиме</li>
+</ul>
+<p><strong>Преимущества:</strong></p>
+<ul>
+<li>Компактность</li>
+<li>Плавность работы</li>
+<li>Низкие вибрации</li>
+<li>Оптимальные обороты</li>
+</ul>
+<h3 id="водородный-рпд">Водородный РПД<a class="anchor" href="#%d0%b2%d0%be%d0%b4%d0%be%d1%80%d0%be%d0%b4%d0%bd%d1%8b%d0%b9-%d1%80%d0%bf%d0%b4">#</a></h3>
+<p>Mazda экспериментирует с водородными роторными двигателями:</p>
+<ul>
+<li>Нулевые выбросы CO₂</li>
+<li>Чистый выхлоп (водяной пар)</li>
+<li>Сохранение преимуществ РПД</li>
+</ul>
+<p><strong>Проблемы:</strong></p>
+<ul>
+<li>Инфраструктура водородных заправок</li>
+<li>Хранение водорода</li>
+<li>Стоимость</li>
+</ul>
+<h2 id="тюнинг-рпд">Тюнинг РПД<a class="anchor" href="#%d1%82%d1%8e%d0%bd%d0%b8%d0%bd%d0%b3-%d1%80%d0%bf%d0%b4">#</a></h2>
+<h3 id="базовый-stage-1">Базовый (Stage 1)<a class="anchor" href="#%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d1%8b%d0%b9-stage-1">#</a></h3>
+<ul>
+<li>Впускная система</li>
+<li>Выпускная система</li>
+<li>Прошивка ЭБУ</li>
+<li><strong>Прибавка:</strong> +20–30 л.с.</li>
+</ul>
+<h3 id="продвинутый-stage-23">Продвинутый (Stage 2–3)<a class="anchor" href="#%d0%bf%d1%80%d0%be%d0%b4%d0%b2%d0%b8%d0%bd%d1%83%d1%82%d1%8b%d0%b9-stage-23">#</a></h3>
+<ul>
+<li>Облегчённый маховик</li>
+<li>Кованые апексы</li>
+<li>Порты и полировка</li>
+<li><strong>Прибавка:</strong> +40–60 л.с.</li>
+</ul>
+<h3 id="турбирование">Турбирование<a class="anchor" href="#%d1%82%d1%83%d1%80%d0%b1%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5">#</a></h3>
+<ul>
+<li>Турбокомпрессор</li>
+<li>Интеркулер</li>
+<li>Усиленная топливная система</li>
+<li><strong>Прибавка:</strong> +150–250 л.с.</li>
+<li><strong>Итого:</strong> 400–500 л.с.</li>
+</ul>
+<blockquote class='book-hint '>
+<p>⚠️ <strong>Важно:</strong> Турбирование значительно снижает ресурс двигателя!</p>
+</blockquote><h2 id="интересные-факты">Интересные факты<a class="anchor" href="#%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d1%8b%d0%b5-%d1%84%d0%b0%d0%ba%d1%82%d1%8b">#</a></h2>
+<ol>
+<li><strong>Форма ротора</strong> — не идеальный треугольник, а сложная кривая</li>
+<li><strong>На один ротор</strong> приходится 3 рабочих хода за оборот</li>
+<li><strong>Mazda</strong> купила лицензию у NSU в 1961 году</li>
+<li><strong>20B</strong> — 3-роторный двигатель (только для Японии)</li>
+<li><strong>787B</strong> — роторный болид, победивший в Ле-Мане 1991</li>
+<li><strong>Последний Ле-Ман</strong> с роторным двигателем — запрет после победы Mazda</li>
+</ol>
+<blockquote class='book-hint '>
+<p>💡 <strong>Итог:</strong> Роторный двигатель — уникальная конструкция с выдающейся плавностью работы и высокой удельной мощностью. Требует особого отношения к обслуживанию, но дарит незабываемые ощущения от вождения.</p>
+</blockquote></article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+
+
+
+
+  
+  
+  
+  <div class="flex flex-wrap justify-between">
+    <span>
+    
+      <a href="/docs/dvigatel/gbo/" class="flex align-center">
+        <img src="/icons/backward.svg" class="book-icon" alt="Backward" />
+        <span>Газ (ГБО)</span>
+      </a>
+    
+    </span>
+    <span>
+    
+      <a href="/docs/dvigatel/vankel/" class="flex align-center">
+        <span>Феликс Ванкель</span>
+        <img src="/icons/forward.svg" class="book-icon" alt="Forward" />
+      </a>
+    
+    </span>
+  </div>
+  
+
+<script src="https://giscus.app/client.js"
+        data-repo="rx8wiki/rx8wiki.github.io"
+        data-repo-id="R_kgDORPMPnw"
+        data-category="General"
+        data-category-id="DIC_kwDORPMPn84C2fKf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async> 
+</script>
+ 
+        
+  
+  <div class="book-comments"><script src="https://giscus.app/client.js"
+        data-repo="rx8wiki/rx8wiki.github.io"
+        data-repo-id="R_kgDORPMPnw"
+        data-category="General"
+        data-category-id="DIC_kwDORPMPn84C2fKf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async> 
+</script></div>
+  
+ 
+        
+        
+  
+ 
+        
+  
+  
+    <script>(function(){document.querySelectorAll("pre:has(code)").forEach(e=>{e.addEventListener("click",e.focus),e.addEventListener("copy",function(t){if(t.preventDefault(),navigator.clipboard){const t=window.getSelection().toString()||e.textContent;navigator.clipboard.writeText(t)}})})})()</script>
+  
+
+      </footer>
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+  
+  <aside class="book-toc">
+    <div class="book-toc-content">
+      
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#история-создания">История создания</a></li>
+    <li><a href="#устройство-роторного-двигателя">Устройство роторного двигателя</a>
+      <ul>
+        <li><a href="#основные-компоненты">Основные компоненты</a></li>
+        <li><a href="#конструкция-13b-msp-rx-8">Конструкция 13B-MSP (RX-8)</a></li>
+      </ul>
+    </li>
+    <li><a href="#принцип-работы">Принцип работы</a>
+      <ul>
+        <li><a href="#четыре-такта-в-роторном-двигателе">Четыре такта в роторном двигателе</a></li>
+        <li><a href="#1-впуск">1. Впуск</a></li>
+        <li><a href="#2-сжатие">2. Сжатие</a></li>
+        <li><a href="#3-рабочий-ход-сгорание">3. Рабочий ход (сгорание)</a></li>
+        <li><a href="#4-выпуск">4. Выпуск</a></li>
+        <li><a href="#соотношение-оборотов">Соотношение оборотов</a></li>
+      </ul>
+    </li>
+    <li><a href="#геометрия-работы">Геометрия работы</a>
+      <ul>
+        <li><a href="#эпитрохоида">Эпитрохоида</a></li>
+        <li><a href="#траектория-апекса">Траектория апекса</a></li>
+      </ul>
+    </li>
+    <li><a href="#система-смазки">Система смазки</a>
+      <ul>
+        <li><a href="#особенности-рпд">Особенности РПД</a></li>
+        <li><a href="#подача-масла">Подача масла</a></li>
+      </ul>
+    </li>
+    <li><a href="#система-зажигания">Система зажигания</a>
+      <ul>
+        <li><a href="#особенности">Особенности</a></li>
+        <li><a href="#почему-4-свечи">Почему 4 свечи?</a></li>
+      </ul>
+    </li>
+    <li><a href="#система-охлаждения">Система охлаждения</a>
+      <ul>
+        <li><a href="#особенности-рпд-1">Особенности РПД</a></li>
+        <li><a href="#почему-важен-температурный-режим">Почему важен температурный режим?</a></li>
+      </ul>
+    </li>
+    <li><a href="#преимущества-рпд">Преимущества РПД</a>
+      <ul>
+        <li><a href="#сравнение-с-поршневым-двигателем">Сравнение с поршневым двигателем</a></li>
+      </ul>
+    </li>
+    <li><a href="#недостатки-рпд">Недостатки РПД</a>
+      <ul>
+        <li><a href="#экологические-нормы">Экологические нормы</a></li>
+      </ul>
+    </li>
+    <li><a href="#ресурс-двигателя">Ресурс двигателя</a>
+      <ul>
+        <li><a href="#факторы-влияния">Факторы влияния</a></li>
+        <li><a href="#ожидаемый-ресурс">Ожидаемый ресурс</a></li>
+      </ul>
+    </li>
+    <li><a href="#модификации-двигателя-13b">Модификации двигателя 13B</a>
+      <ul>
+        <li><a href="#renesis">Renesis</a></li>
+      </ul>
+    </li>
+    <li><a href="#будущее-рпд">Будущее РПД</a>
+      <ul>
+        <li><a href="#mazda-mx-30-r-ev-2023">Mazda MX-30 R-EV (2023)</a></li>
+        <li><a href="#водородный-рпд">Водородный РПД</a></li>
+      </ul>
+    </li>
+    <li><a href="#тюнинг-рпд">Тюнинг РПД</a>
+      <ul>
+        <li><a href="#базовый-stage-1">Базовый (Stage 1)</a></li>
+        <li><a href="#продвинутый-stage-23">Продвинутый (Stage 2–3)</a></li>
+        <li><a href="#турбирование">Турбирование</a></li>
+      </ul>
+    </li>
+    <li><a href="#интересные-факты">Интересные факты</a></li>
+  </ul>
+</nav>
+
+
+
+    </div>
+  </aside>
+  
+ 
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

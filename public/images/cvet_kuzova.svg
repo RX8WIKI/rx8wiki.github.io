@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a252f;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Text -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial" font-size="42" font-weight="bold" fill="#ecf0f1">ЦВЕТА КУЗОВА</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial" font-size="18" fill="#bdc3c7">Коды краски по годам выпуска</text>
+  
+  <!-- Color swatches grid -->
+  <g transform="translate(100, 110)">
+    <!-- Row 1 -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#f5f5f5" stroke="#bdc3c7" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">10U</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Arctic White</text>
+    </g>
+    
+    <g transform="translate(100, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#95a5a6" stroke="#7f8c8d" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">35B</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Titanium Gray</text>
+    </g>
+    
+    <g transform="translate(200, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#4a5568" stroke="#2d3748" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">41B</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Galaxy Gray</text>
+    </g>
+    
+    <g transform="translate(300, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#1a365d" stroke="#2c5282" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">42M</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Dark Blue</text>
+    </g>
+    
+    <g transform="translate(400, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#2b6cb0" stroke="#2c5282" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">44G</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Lightning Blue</text>
+    </g>
+    
+    <g transform="translate(500, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#c53030" stroke="#9b2c2c" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">51U</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Velocity Red</text>
+    </g>
+    
+    <g transform="translate(600, 0)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#1a1a1a" stroke="#4a4a4a" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">62H</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Brilliant Black</text>
+    </g>
+    
+    <!-- Row 2 -->
+    <g transform="translate(50, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#bdc3c7" stroke="#95a5a6" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">72H</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Sunlight Silver</text>
+    </g>
+    
+    <g transform="translate(150, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#c05621" stroke="#9c4221" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">27A</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Copper Red</text>
+    </g>
+    
+    <g transform="translate(250, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#2c5282" stroke="#1a365d" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">47M</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Stormy Blue</text>
+    </g>
+    
+    <g transform="translate(350, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#2d3748" stroke="#1a202c" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">54R</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Sparkling Black</text>
+    </g>
+    
+    <g transform="translate(450, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#6b7c93" stroke="#4a5568" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">75M</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Dolphin Gray</text>
+    </g>
+    
+    <g transform="translate(550, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#276749" stroke="#22543d" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">87K</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Nordic Green</text>
+    </g>
+    
+    <g transform="translate(650, 120)">
+      <rect x="0" y="0" width="80" height="60" rx="8" fill="#f7fafc" stroke="#cbd5e0" stroke-width="2"/>
+      <text x="40" y="80" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">12W</text>
+      <text x="40" y="93" text-anchor="middle" font-family="Arial" font-size="9" fill="#95a5a6">Crystal White</text>
+    </g>
+  </g>
+  
+  <!-- VIN plate hint -->
+  <g transform="translate(650, 280)">
+    <rect x="0" y="0" width="120" height="80" rx="5" fill="#4a5568"/>
+    <rect x="10" y="10" width="100" height="60" rx="3" fill="#ecf0f1"/>
+    <text x="60" y="30" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#2c3e50">VIN PLATE</text>
+    <line x1="15" y1="40" x2="105" y2="40" stroke="#2c3e50" stroke-width="1"/>
+    <text x="15" y="55" font-family="Arial" font-size="8" fill="#2c3e50">Color: 62H</text>
+    <text x="15" y="65" font-family="Arial" font-size="8" fill="#2c3e50">Year: 2008</text>
+  </g>
+  
+  <!-- Paint can icon -->
+  <g transform="translate(50, 280)">
+    <path d="M20 20 L60 20 L55 70 L25 70 Z" fill="#e74c3c"/>
+    <ellipse cx="40" cy="20" rx="20" ry="8" fill="#c0392b"/>
+    <ellipse cx="40" cy="20" rx="15" ry="5" fill="#e74c3c"/>
+    <rect x="35" y="35" width="10" height="25" fill="#ecf0f1" opacity="0.3"/>
+    <text x="40" y="85" text-anchor="middle" font-family="Arial" font-size="10" fill="#bdc3c7">Подбор</text>
+  </g>
+</svg>
