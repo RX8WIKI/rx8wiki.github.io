@@ -33,17 +33,17 @@ title: "RX-8 Wiki"
 <h2 class="icon-engine">Двигатель</h2>
 <ul>
 <li>Диагностика (Симптомы)</li>
-<li><strong>Замер компрессии</strong></li>
+<li><strong><a href="/docs/dvigatel/zamer_kompressii">Замер компрессии</a></strong></li>
 <li>Доработки</li>
 <li>Ремонт (Переборка)</li>
-<li><strong>Свечи и катушки зажигания</strong></li>
-<li><strong>Раскоксовка</strong></li>
-<li><strong>Воздушный фильтр</strong></li>
-<li><strong>Масляные форсунки</strong></li>
+<li><strong><a href="/docs/dvigatel/svechi_katushki">Свечи и катушки зажигания</a></strong></li>
+<li><strong><a href="/docs/dvigatel/raskoksovka">Раскоксовка</a></strong></li>
+<li><strong><a href="/docs/dvigatel/vozdushnyj_filtr">Воздушный фильтр</a></strong></li>
+<li><strong><a href="/docs/dvigatel/maslyanye_forsunki">Масляные форсунки</a></strong></li>
 <li>Катализатор и лямбда-зонды</li>
 <li>Топливная система</li>
 <li>Газ (ГБО)</li>
-<li class="red">Роторно-Поршневой ДВС</li>
+<li class="red"><a href="/docs/dvigatel/rpd">Роторно-Поршневой ДВС</a></li>
 <li>Феликс Ванкель</li>
 </ul>
 </div>
@@ -51,56 +51,56 @@ title: "RX-8 Wiki"
 <div class="home-section">
 <h2 class="icon-electric">Электрика</h2>
 <ul>
-<li>Аккумулятор (АКБ)</li>
-<li>Стартер</li>
-<li>Прошивка ЭБУ</li>
-<li>Фары и лампочки</li>
-<li>Подключение iPhone/MP3 USB</li>
-<li>Выкидной ключ</li>
-<li>Аудиосистема</li>
-<li>Подушки безопасности</li>
-<li class="red">Приборная панель</li>
-<li>Кондиционер (климат-контроль)</li>
-<li class="red">Стеклоподъемники</li>
-<li>Генератор</li>
+<li><a href="/docs/electrics/akkumulyator">Аккумулятор (АКБ)</a></li>
+<li><a href="/docs/electrics/starter">Стартер</a></li>
+<li><a href="/docs/electrics/ecu_tuning">Прошивка ЭБУ</a></li>
+<li><a href="/docs/electrics/headlights">Фары и лампочки</a></li>
+<li><a href="/docs/electrics/iphone_usb">Подключение iPhone/MP3 USB</a></li>
+<li><a href="/docs/electrics/key_fob">Выкидной ключ</a></li>
+<li><a href="/docs/electrics/audio_system">Аудиосистема</a></li>
+<li><a href="/docs/electrics/airbags">Подушки безопасности</a></li>
+<li><a href="/docs/electrics/instrument_cluster">Приборная панель</a></li>
+<li><a href="/docs/electrics/ac_climate">Кондиционер (климат-контроль)</a></li>
+<li><a href="/docs/electrics/power_windows">Стеклоподъемники</a></li>
+<li><a href="/docs/electrics/alternator">Генератор</a></li>
 </ul>
 </div>
 
 <div class="home-section">
 <h2 class="icon-problems">Проблемы</h2>
 <ul>
-<li>Вибрации, нестабильные холостые</li>
-<li>Пенка в масле</li>
-<li>Залив свечей</li>
-<li>Запотевание фар</li>
-<li>Свистящие колодки</li>
-<li>Педаль сцепления</li>
+<li><a href="/docs/problemy/vibrations">Вибрации, нестабильные холостые</a></li>
+<li><a href="/docs/problemy/oil_foam">Пенка в масле</a></li>
+<li><a href="/docs/problemy/fouled_sparks">Залив свечей</a></li>
+<li><a href="/docs/problemy/headlight_fogging">Запотевание фар</a></li>
+<li><a href="/docs/problemy/squeaky_brakes">Свистящие колодки</a></li>
+<li><a href="/docs/problemy/clutch_pedal">Педаль сцепления</a></li>
 </ul>
 </div>
 
 <div class="home-section">
 <h2 class="icon-suspension">Ходовая</h2>
 <ul>
-<li>Диски, шины</li>
-<li>Тормоза</li>
-<li class="red">Рычаги, тяги, сайлент-блоки</li>
-<li>Амортизаторы</li>
-<li>Сцепление</li>
-<li>АКПП</li>
-<li class="red">Карданный вал (тоннель)</li>
-<li class="red">Дифференциал</li>
+<li><a href="/docs/hodovaya/wheels_tires">Диски, шины</a></li>
+<li><a href="/docs/hodovaya/brakes">Тормоза</a></li>
+<li><a href="/docs/hodovaya/suspension_arms">Рычаги, тяги, сайлент-блоки</a></li>
+<li><a href="/docs/hodovaya/shock_absorbers">Амортизаторы</a></li>
+<li><a href="/docs/hodovaya/clutch">Сцепление</a></li>
+<li><a href="/docs/hodovaya/automatic_transmission">АКПП</a></li>
+<li><a href="/docs/hodovaya/driveshaft">Карданный вал (тоннель)</a></li>
+<li><a href="/docs/hodovaya/differential">Дифференциал</a></li>
 </ul>
 </div>
 
 <div class="home-section">
 <h2 class="icon-tuning">Тюнинг</h2>
 <ul>
-<li class="red">Турбина / Компрессор</li>
-<li>СВАП - Замена Двигателя</li>
-<li class="red">Тепло- и шумоизоляция</li>
-<li>Автозвук</li>
-<li>Обвесы</li>
-<li class="red">Люк</li>
+<li><a href="/docs/tuning/turbo_supercharger">Турбина / Компрессор</a></li>
+<li><a href="/docs/tuning/engine_swap">СВАП - Замена Двигателя</a></li>
+<li><a href="/docs/tuning/sound_insulation">Тепло- и шумоизоляция</a></li>
+<li><a href="/docs/tuning/car_audio">Автозвук</a></li>
+<li><a href="/docs/tuning/body_kits">Обвесы</a></li>
+<li><a href="/docs/tuning/sunroof">Люк</a></li>
 </ul>
 </div>
 

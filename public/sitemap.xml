@@ -23,23 +23,26 @@
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/dorabotki/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/problemy/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/benzin/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/zimnij_sezon/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/problemy/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/dvigatel/remont/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/svechi_katushki/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/hodovaya/</loc>
+    <loc>http://localhost:1313/docs/tuning/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/antifriz/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/raskoksovka/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/tuning/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/vozdushnyj_filtr/</loc>
   </url><url>
@@ -50,6 +53,15 @@
     <loc>http://localhost:1313/docs/dvigatel/katalizator/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/ekspluataciya/kody_ce/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/problemy/vibrations/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/wheels_tires/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/tuning/turbo_supercharger/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/akkumulyator/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
@@ -70,22 +82,73 @@
   </url><url>
     <loc>http://localhost:1313/docs/dvigatel/vankel/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/problemy/oil_foam/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/tuning/engine_swap/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/electrics/starter/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/brakes/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/problemy/fouled_sparks/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/ecu_tuning/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/suspension_arms/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/tuning/sound_insulation/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/tuning/car_audio/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/shock_absorbers/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/problemy/headlight_fogging/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/electrics/headlights/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/tuning/body_kits/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/iphone_usb/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/problemy/squeaky_brakes/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/clutch/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/automatic_transmission/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/electrics/key_fob/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/tuning/sunroof/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/problemy/clutch_pedal/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/electrics/audio_system/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/driveshaft/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/hodovaya/differential/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/electrics/airbags/</loc>
