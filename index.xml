@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RX-8 Wiki</title><link>https://rx8wiki.github.io/</link><description>Recent content on RX-8 Wiki</description><generator>Hugo</generator><language>ru</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rx8wiki.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Диагностика (Симптомы)</title><link>https://rx8wiki.github.io/docs/dvigatel/diagnostika/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/dvigatel/diagnostika/</guid><description>&lt;p&gt;&lt;img src="https://rx8wiki.github.io/images/diagnostika.svg" alt="Диагностика" /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RX-8 Wiki</title><link>https://rx8wiki.github.io/</link><description>Recent content on RX-8 Wiki</description><generator>Hugo</generator><language>ru</language><lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://rx8wiki.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Диагностика (Симптомы)</title><link>https://rx8wiki.github.io/docs/dvigatel/diagnostika/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/dvigatel/diagnostika/</guid><description>&lt;p&gt;&lt;img src="https://rx8wiki.github.io/images/diagnostika.svg" alt="Диагностика" /&gt;&lt;/p&gt;
 &lt;h1 id="диагностика-двигателя-по-симптомам"&gt;Диагностика двигателя по симптомам&lt;a class="anchor" href="#%d0%b4%d0%b8%d0%b0%d0%b3%d0%bd%d0%be%d1%81%d1%82%d0%b8%d0%ba%d0%b0-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d0%bf%d0%be-%d1%81%d0%b8%d0%bc%d0%bf%d1%82%d0%be%d0%bc%d0%b0%d0%bc"&gt;#&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Данная статья поможет определить возможную неисправность по внешним симптомам работы двигателя Mazda RX-8.&lt;/p&gt;
 &lt;h2 id="таблица-симптомов-и-возможных-причин"&gt;Таблица симптомов и возможных причин&lt;a class="anchor" href="#%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d0%b0-%d1%81%d0%b8%d0%bc%d0%bf%d1%82%d0%be%d0%bc%d0%be%d0%b2-%d0%b8-%d0%b2%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d1%8b%d1%85-%d0%bf%d1%80%d0%b8%d1%87%d0%b8%d0%bd"&gt;#&lt;/a&gt;&lt;/h2&gt;
@@ -2838,4 +2838,1342 @@
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Ванкель не имел высшего инженерного образования! Он был самоучкой.&lt;/p&gt;
 &lt;h3 id="начало-инженерной-карьеры"&gt;Начало инженерной карьеры&lt;a class="anchor" href="#%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%be-%d0%b8%d0%bd%d0%b6%d0%b5%d0%bd%d0%b5%d1%80%d0%bd%d0%be%d0%b9-%d0%ba%d0%b0%d1%80%d1%8c%d0%b5%d1%80%d1%8b"&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1920-е годы:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title/><link>https://rx8wiki.github.io/docs/dvigatel/compression/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/dvigatel/compression/</guid><description/></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;1920-е годы:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Стартер</title><link>https://rx8wiki.github.io/docs/electrics/starter/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/starter/</guid><description>&lt;h1 id="стартер-mazda-rx-8"&gt;Стартер Mazda RX-8&lt;a class="anchor" href="#%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b5%d1%80-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Стартер — ключевой узел системы запуска двигателя. На RX-8 установлен надёжный электродвигатель, способный работать более 150 000 км без обслуживания.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="характеристики-стартера"&gt;Характеристики стартера&lt;a class="anchor" href="#%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b5%d1%80%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Редукторный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Напряжение&lt;/td&gt;
+ &lt;td&gt;12 В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;1.4 кВт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Количество зубьев&lt;/td&gt;
+ &lt;td&gt;9&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Производитель&lt;/td&gt;
+ &lt;td&gt;Denso, Mitsubishi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="признаки-неисправности-стартера"&gt;Признаки неисправности стартера&lt;a class="anchor" href="#%d0%bf%d1%80%d0%b8%d0%b7%d0%bd%d0%b0%d0%ba%d0%b8-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b5%d1%80%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="медленное-вращение-двигателя"&gt;Медленное вращение двигателя&lt;a class="anchor" href="#%d0%bc%d0%b5%d0%b4%d0%bb%d0%b5%d0%bd%d0%bd%d0%be%d0%b5-%d0%b2%d1%80%d0%b0%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b2%d0%b8%d0%b3%d0%b0%d1%82%d0%b5%d0%bb%d1%8f"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Симптомы:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Двигатель вращается вяло&lt;/li&gt;
+&lt;li&gt;Запуск занимает более 3–5 секунд&lt;/li&gt;
+&lt;li&gt;Слышен натужный гул стартера&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Возможные причины:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Разряженный аккумулятор&lt;/li&gt;
+&lt;li&gt;Окисление клемм АКБ&lt;/li&gt;
+&lt;li&gt;Износ щёток стартера&lt;/li&gt;
+&lt;li&gt;Межвитковое замыкание обмотки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="щелчки-без-вращения"&gt;Щелчки без вращения&lt;a class="anchor" href="#%d1%89%d0%b5%d0%bb%d1%87%d0%ba%d0%b8-%d0%b1%d0%b5%d0%b7-%d0%b2%d1%80%d0%b0%d1%89%d0%b5%d0%bd%d0%b8%d1%8f"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Симптомы:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Прошивка ЭБУ</title><link>https://rx8wiki.github.io/docs/electrics/ecu_tuning/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/ecu_tuning/</guid><description>&lt;h1 id="прошивка-эбу-mazda-rx-8"&gt;Прошивка ЭБУ Mazda RX-8&lt;a class="anchor" href="#%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0-%d1%8d%d0%b1%d1%83-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Электронный блок управления (ЭБУ) контролирует все параметры работы двигателя. Правильная прошивка может улучшить характеристики, снизить расход топлива и адаптировать автомобиль под конкретные условия эксплуатации.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="типы-эбу-на-rx-8"&gt;Типы ЭБУ на RX-8&lt;a class="anchor" href="#%d1%82%d0%b8%d0%bf%d1%8b-%d1%8d%d0%b1%d1%83-%d0%bd%d0%b0-rx-8"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Год выпуска&lt;/th&gt;
+ &lt;th&gt;Тип ЭБУ&lt;/th&gt;
+ &lt;th&gt;Процессор&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2003–2005&lt;/td&gt;
+ &lt;td&gt;Denso 10C&lt;/td&gt;
+ &lt;td&gt;16-битный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2006–2008&lt;/td&gt;
+ &lt;td&gt;Denso 10C (обновлённый)&lt;/td&gt;
+ &lt;td&gt;16-битный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2009–2012&lt;/td&gt;
+ &lt;td&gt;Denso 10C (финальный)&lt;/td&gt;
+ &lt;td&gt;16-битный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Важно:&lt;/strong&gt; Все RX-8 используют ЭБУ производства Denso. Прошивки от других моделей Mazda не подходят.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+&lt;h2 id="зачем-нужна-перепрошивка"&gt;Зачем нужна перепрошивка?&lt;a class="anchor" href="#%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0-%d0%bf%d0%b5%d1%80%d0%b5%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="улучшение-характеристик"&gt;Улучшение характеристик&lt;a class="anchor" href="#%d1%83%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Увеличение мощности:&lt;/strong&gt; 5–15 л.с. при правильной настройке&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Улучшение отклика педали газа:&lt;/strong&gt; более линейная характеристика&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Оптимизация угла зажигания:&lt;/strong&gt; лучшая тяга на низких оборотах&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Корректировка топливной смеси:&lt;/strong&gt; оптимальное соотношение воздух/топливо&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="адаптация-под-модификации"&gt;Адаптация под модификации&lt;a class="anchor" href="#%d0%b0%d0%b4%d0%b0%d0%bf%d1%82%d0%b0%d1%86%d0%b8%d1%8f-%d0%bf%d0%be%d0%b4-%d0%bc%d0%be%d0%b4%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Модификация&lt;/th&gt;
+ &lt;th&gt;Требуемые изменения&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Впуск (нулевик)&lt;/td&gt;
+ &lt;td&gt;Корректировка ДМРВ&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Выпуск (паук 4-2-1)&lt;/td&gt;
+ &lt;td&gt;Угол зажигания, лямбда&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Выпуск (прямоток)&lt;/td&gt;
+ &lt;td&gt;Отключение вторичных лямбд&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Компрессор&lt;/td&gt;
+ &lt;td&gt;Топливные карты, угол, буст&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Турбо&lt;/td&gt;
+ &lt;td&gt;Полная перенастройка&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="отключение-экологии"&gt;Отключение экологии&lt;a class="anchor" href="#%d0%be%d1%82%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d1%8d%d0%ba%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d0%b8"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Катализаторы:&lt;/strong&gt; отключение вторичных лямбда-зондов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Сажевый фильтр:&lt;/strong&gt; не актуально для бензина&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EGR:&lt;/strong&gt; отключение системы рециркуляции&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EVAP:&lt;/strong&gt; корректировка системы улавливания паров&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="исправление-заводских-недочётов"&gt;Исправление заводских недочётов&lt;a class="anchor" href="#%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0%d0%b2%d0%be%d0%b4%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b5%d0%b4%d0%be%d1%87%d1%91%d1%82%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Улучшение холодного запуска&lt;/li&gt;
+&lt;li&gt;Стабилизация холостых оборотов&lt;/li&gt;
+&lt;li&gt;Устранение провалов при разгоне&lt;/li&gt;
+&lt;li&gt;Оптимизация работы вентиляторов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="способы-прошивки"&gt;Способы прошивки&lt;a class="anchor" href="#%d1%81%d0%bf%d0%be%d1%81%d0%be%d0%b1%d1%8b-%d0%bf%d1%80%d0%be%d1%88%d0%b8%d0%b2%d0%ba%d0%b8"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="obd-ii-через-ноутбук"&gt;OBD-II через ноутбук&lt;a class="anchor" href="#obd-ii-%d1%87%d0%b5%d1%80%d0%b5%d0%b7-%d0%bd%d0%be%d1%83%d1%82%d0%b1%d1%83%d0%ba"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Необходимое оборудование:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Фары и лампочки</title><link>https://rx8wiki.github.io/docs/electrics/headlights/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/headlights/</guid><description>&lt;h1 id="фары-и-лампочки-mazda-rx-8"&gt;Фары и лампочки Mazda RX-8&lt;a class="anchor" href="#%d1%84%d0%b0%d1%80%d1%8b-%d0%b8-%d0%bb%d0%b0%d0%bc%d0%bf%d0%be%d1%87%d0%ba%d0%b8-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Осветительные приборы RX-8 обеспечивают видимость дороги и обозначение автомобиля. В зависимости от комплектации устанавливаются галогеновые или ксеноновые фары.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="типы-фар"&gt;Типы фар&lt;a class="anchor" href="#%d1%82%d0%b8%d0%bf%d1%8b-%d1%84%d0%b0%d1%80"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Комплектация&lt;/th&gt;
+ &lt;th&gt;Ближний свет&lt;/th&gt;
+ &lt;th&gt;Дальний свет&lt;/th&gt;
+ &lt;th&gt;ПТФ&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Базовая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Галоген H7&lt;/td&gt;
+ &lt;td&gt;Галоген HB3&lt;/td&gt;
+ &lt;td&gt;Галоген H11&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Люкс&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Ксенон D2S&lt;/td&gt;
+ &lt;td&gt;Галоген HB3&lt;/td&gt;
+ &lt;td&gt;Галоген H11&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="характеристики-ламп"&gt;Характеристики ламп&lt;a class="anchor" href="#%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d0%bb%d0%b0%d0%bc%d0%bf"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="ближний-свет"&gt;Ближний свет&lt;a class="anchor" href="#%d0%b1%d0%bb%d0%b8%d0%b6%d0%bd%d0%b8%d0%b9-%d1%81%d0%b2%d0%b5%d1%82"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Галоген&lt;/th&gt;
+ &lt;th&gt;Ксенон&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип цоколя&lt;/td&gt;
+ &lt;td&gt;H7&lt;/td&gt;
+ &lt;td&gt;D2S&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;55 Вт&lt;/td&gt;
+ &lt;td&gt;35 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Световой поток&lt;/td&gt;
+ &lt;td&gt;1500 лм&lt;/td&gt;
+ &lt;td&gt;3200 лм&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Цветовая температура&lt;/td&gt;
+ &lt;td&gt;3200K&lt;/td&gt;
+ &lt;td&gt;4300–5000K&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Срок службы&lt;/td&gt;
+ &lt;td&gt;500–1000 часов&lt;/td&gt;
+ &lt;td&gt;2500–3000 часов&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Артикул (Mazda)&lt;/td&gt;
+ &lt;td&gt;0000-18-H700&lt;/td&gt;
+ &lt;td&gt;N347-51-0K0A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="дальний-свет"&gt;Дальний свет&lt;a class="anchor" href="#%d0%b4%d0%b0%d0%bb%d1%8c%d0%bd%d0%b8%d0%b9-%d1%81%d0%b2%d0%b5%d1%82"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип цоколя&lt;/td&gt;
+ &lt;td&gt;HB3 (9005)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;60 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Световой поток&lt;/td&gt;
+ &lt;td&gt;1700 лм&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Цветовая температура&lt;/td&gt;
+ &lt;td&gt;3200K&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Артикул (Mazda)&lt;/td&gt;
+ &lt;td&gt;0000-18-HB30&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="противотуманные-фары-птф"&gt;Противотуманные фары (ПТФ)&lt;a class="anchor" href="#%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d1%82%d1%83%d0%bc%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d1%84%d0%b0%d1%80%d1%8b-%d0%bf%d1%82%d1%84"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип цоколя&lt;/td&gt;
+ &lt;td&gt;H11&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;55 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Световой поток&lt;/td&gt;
+ &lt;td&gt;1350 лм&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Цветовая температура&lt;/td&gt;
+ &lt;td&gt;3200K&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Артикул (Mazda)&lt;/td&gt;
+ &lt;td&gt;0000-18-H110&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="габаритные-огни"&gt;Габаритные огни&lt;a class="anchor" href="#%d0%b3%d0%b0%d0%b1%d0%b0%d1%80%d0%b8%d1%82%d0%bd%d1%8b%d0%b5-%d0%be%d0%b3%d0%bd%d0%b8"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип цоколя&lt;/td&gt;
+ &lt;td&gt;W5W (T10)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;5 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Артикул (Mazda)&lt;/td&gt;
+ &lt;td&gt;0000-18-W5W0&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="указатели-поворота"&gt;Указатели поворота&lt;a class="anchor" href="#%d1%83%d0%ba%d0%b0%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d0%b8-%d0%bf%d0%be%d0%b2%d0%be%d1%80%d0%be%d1%82%d0%b0"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип цоколя&lt;/td&gt;
+ &lt;td&gt;PY21W (琥珀色)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;21 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Цвет&lt;/td&gt;
+ &lt;td&gt;Оранжевый&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Артикул (Mazda)&lt;/td&gt;
+ &lt;td&gt;0000-18-PY21W&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="задние-фонари"&gt;Задние фонари&lt;a class="anchor" href="#%d0%b7%d0%b0%d0%b4%d0%bd%d0%b8%d0%b5-%d1%84%d0%be%d0%bd%d0%b0%d1%80%d0%b8"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Функция&lt;/th&gt;
+ &lt;th&gt;Тип цоколя&lt;/th&gt;
+ &lt;th&gt;Мощность&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Стоп-сигнал&lt;/td&gt;
+ &lt;td&gt;P21W&lt;/td&gt;
+ &lt;td&gt;21 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Габариты&lt;/td&gt;
+ &lt;td&gt;P21/5W&lt;/td&gt;
+ &lt;td&gt;21/5 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Повороты&lt;/td&gt;
+ &lt;td&gt;PY21W&lt;/td&gt;
+ &lt;td&gt;21 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Задний ход&lt;/td&gt;
+ &lt;td&gt;P21W&lt;/td&gt;
+ &lt;td&gt;21 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="замена-ламп-ближнего-света"&gt;Замена ламп ближнего света&lt;a class="anchor" href="#%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%d0%b0-%d0%bb%d0%b0%d0%bc%d0%bf-%d0%b1%d0%bb%d0%b8%d0%b6%d0%bd%d0%b5%d0%b3%d0%be-%d1%81%d0%b2%d0%b5%d1%82%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="галогеновые-лампы-h7"&gt;Галогеновые лампы (H7)&lt;a class="anchor" href="#%d0%b3%d0%b0%d0%bb%d0%be%d0%b3%d0%b5%d0%bd%d0%be%d0%b2%d1%8b%d0%b5-%d0%bb%d0%b0%d0%bc%d0%bf%d1%8b-h7"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Необходимые инструменты:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Подключение iPhone/MP3 USB</title><link>https://rx8wiki.github.io/docs/electrics/iphone_usb/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/iphone_usb/</guid><description>&lt;h1 id="подключение-iphonemp3-usb-mazda-rx-8"&gt;Подключение iPhone/MP3 USB Mazda RX-8&lt;a class="anchor" href="#%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-iphonemp3-usb-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Штатная аудиосистема RX-8 не предусматривает современные источники звука. Рассмотрим способы интеграции iPhone, USB-накопителей и Bluetooth.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="штатные-аудиосистемы"&gt;Штатные аудиосистемы&lt;a class="anchor" href="#%d1%88%d1%82%d0%b0%d1%82%d0%bd%d1%8b%d0%b5-%d0%b0%d1%83%d0%b4%d0%b8%d0%be%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Комплектация&lt;/th&gt;
+ &lt;th&gt;Магнитола&lt;/th&gt;
+ &lt;th&gt;CD&lt;/th&gt;
+ &lt;th&gt;AUX&lt;/th&gt;
+ &lt;th&gt;USB&lt;/th&gt;
+ &lt;th&gt;Bluetooth&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Базовая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1-DIN&lt;/td&gt;
+ &lt;td&gt;6 дисков&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Средняя&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1-DIN&lt;/td&gt;
+ &lt;td&gt;6 дисков + чейнджер&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Люкс (Bose)&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2-DIN&lt;/td&gt;
+ &lt;td&gt;6 дисков&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;td&gt;Нет&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Важно:&lt;/strong&gt; Ни одна штатная магнитола RX-8 не имеет USB или Bluetooth для аудио.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;hr&gt;
+&lt;h2 id="способы-подключения"&gt;Способы подключения&lt;a class="anchor" href="#%d1%81%d0%bf%d0%be%d1%81%d0%be%d0%b1%d1%8b-%d0%bf%d0%be%d0%b4%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="1-fm-модулятор-бюджетный-вариант"&gt;1. FM-модулятор (бюджетный вариант)&lt;a class="anchor" href="#1-fm-%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d1%8f%d1%82%d0%be%d1%80-%d0%b1%d1%8e%d0%b4%d0%b6%d0%b5%d1%82%d0%bd%d1%8b%d0%b9-%d0%b2%d0%b0%d1%80%d0%b8%d0%b0%d0%bd%d1%82"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Принцип работы:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Выкидной ключ</title><link>https://rx8wiki.github.io/docs/electrics/key_fob/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/key_fob/</guid><description>&lt;h1 id="выкидной-ключ-mazda-rx-8"&gt;Выкидной ключ Mazda RX-8&lt;a class="anchor" href="#%d0%b2%d1%8b%d0%ba%d0%b8%d0%b4%d0%bd%d0%be%d0%b9-%d0%ba%d0%bb%d1%8e%d1%87-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Выкидной ключ RX-8 сочетает механическую часть, чип иммобилайзера и кнопки дистанционного управления. Рассмотрим программирование, замену и ремонт.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="типы-ключей"&gt;Типы ключей&lt;a class="anchor" href="#%d1%82%d0%b8%d0%bf%d1%8b-%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%b9"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Год выпуска&lt;/th&gt;
+ &lt;th&gt;Тип ключа&lt;/th&gt;
+ &lt;th&gt;Кнопки&lt;/th&gt;
+ &lt;th&gt;Чип&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2003–2005&lt;/td&gt;
+ &lt;td&gt;Выкидной&lt;/td&gt;
+ &lt;td&gt;3 кнопки&lt;/td&gt;
+ &lt;td&gt;ID46 (Megamos)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2006–2008&lt;/td&gt;
+ &lt;td&gt;Выкидной&lt;/td&gt;
+ &lt;td&gt;3 кнопки&lt;/td&gt;
+ &lt;td&gt;ID46 (Megamos)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2009–2012&lt;/td&gt;
+ &lt;td&gt;Выкидной&lt;/td&gt;
+ &lt;td&gt;3 кнопки&lt;/td&gt;
+ &lt;td&gt;ID46 (Megamos)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Кнопки на ключе:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔒 Закрытие (Lock)&lt;/li&gt;
+&lt;li&gt;🔓 Открытие (Unlock)&lt;/li&gt;
+&lt;li&gt;🚗 Открытие багажника (Trunk)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="характеристики-ключа"&gt;Характеристики ключа&lt;a class="anchor" href="#%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d0%ba%d0%bb%d1%8e%d1%87%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Частота&lt;/td&gt;
+ &lt;td&gt;315 МГц (США/Япония)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Частота&lt;/td&gt;
+ &lt;td&gt;433 МГц (Европа)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип чипа&lt;/td&gt;
+ &lt;td&gt;Megamos ID46&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип батареи&lt;/td&gt;
+ &lt;td&gt;CR1620&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Количество кнопок&lt;/td&gt;
+ &lt;td&gt;3&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Артикул (Mazda)&lt;/td&gt;
+ &lt;td&gt;N3Y1-76-2Y5A&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="оригинальные-артикулы"&gt;Оригинальные артикулы&lt;a class="anchor" href="#%d0%be%d1%80%d0%b8%d0%b3%d0%b8%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%b0%d1%80%d1%82%d0%b8%d0%ba%d1%83%d0%bb%d1%8b"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Компонент&lt;/th&gt;
+ &lt;th&gt;Артикул&lt;/th&gt;
+ &lt;th&gt;Цена&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Ключ в сборе&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;N3Y1-76-2Y5A&lt;/td&gt;
+ &lt;td&gt;$150–250&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Корпус ключа&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;N3Y1-76-3X0&lt;/td&gt;
+ &lt;td&gt;$30–50&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Лезвие ключа&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;N3Y1-76-220&lt;/td&gt;
+ &lt;td&gt;$20–30&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Брелок отдельно&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;N3Y1-76-3Y0&lt;/td&gt;
+ &lt;td&gt;$80–120&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="программирование-ключа"&gt;Программирование ключа&lt;a class="anchor" href="#%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%ba%d0%bb%d1%8e%d1%87%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="самостоятельное-программирование-пультов"&gt;Самостоятельное программирование (пультов)&lt;a class="anchor" href="#%d1%81%d0%b0%d0%bc%d0%be%d1%81%d1%82%d0%be%d1%8f%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d1%83%d0%bb%d1%8c%d1%82%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Программируется только пульт ДУ, чип иммобилайзера требует специального оборудования!&lt;/p&gt;</description></item><item><title>Аудиосистема</title><link>https://rx8wiki.github.io/docs/electrics/audio_system/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/audio_system/</guid><description>&lt;h1 id="аудиосистема-mazda-rx-8"&gt;Аудиосистема Mazda RX-8&lt;a class="anchor" href="#%d0%b0%d1%83%d0%b4%d0%b8%d0%be%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;RX-8 оснащалась двумя вариантами аудиосистемы: базовой и премиальной Bose. Рассмотрим характеристики, замену и улучшение штатной акустики.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="штатные-аудиосистемы"&gt;Штатные аудиосистемы&lt;a class="anchor" href="#%d1%88%d1%82%d0%b0%d1%82%d0%bd%d1%8b%d0%b5-%d0%b0%d1%83%d0%b4%d0%b8%d0%be%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="базовая-система"&gt;Базовая система&lt;a class="anchor" href="#%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;4 × 20 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Количество динамиков&lt;/td&gt;
+ &lt;td&gt;4&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Расположение&lt;/td&gt;
+ &lt;td&gt;Двери + задние полки&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Усилитель&lt;/td&gt;
+ &lt;td&gt;Встроенный в магнитолу&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Импеданс&lt;/td&gt;
+ &lt;td&gt;4 Ом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="система-bose-люкс"&gt;Система Bose (люкс)&lt;a class="anchor" href="#%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-bose-%d0%bb%d1%8e%d0%ba%d1%81"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;265 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Количество динамиков&lt;/td&gt;
+ &lt;td&gt;8&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Усилитель&lt;/td&gt;
+ &lt;td&gt;Отдельный (в багажнике)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Сабвуфер&lt;/td&gt;
+ &lt;td&gt;Встроенный в полку&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Импеданс&lt;/td&gt;
+ &lt;td&gt;2 Ом (специфичный)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="расположение-динамиков"&gt;Расположение динамиков&lt;a class="anchor" href="#%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d0%ba%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="базовая-система-4-динамика"&gt;Базовая система (4 динамика)&lt;a class="anchor" href="#%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-4-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d0%ba%d0%b0"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; Передняя панель
+ ┌─────────────────────┐
+ │ │
+ │ ┌───────────┐ │
+ │ │ Магнитола │ │
+ │ └───────────┘ │
+ │ │
+ └─────────────────────┘
+ 
+ Двери:
+ ┌─────┐ ┌─────┐
+ │ ● │ │ ● │ ← СЧ/НЧ 16 см
+ └─────┘ └─────┘
+ 
+ Задняя полка:
+ ┌─────┐ ┌─────┐
+ │ ● │ │ ● │ ← СЧ/НЧ 16 см
+ └─────┘ └─────┘&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="система-bose-8-динамиков"&gt;Система Bose (8 динамиков)&lt;a class="anchor" href="#%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-bose-8-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d0%ba%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; Передние двери:
+ ┌─────┐ ┌─────┐
+ │ ● ● │ │ ● ● │ ← ВЧ + СЧ/НЧ
+ └─────┘ └─────┘
+ 
+ Задние двери:
+ ┌─────┐ ┌─────┐
+ │ ● │ │ ● │ ← СЧ/НЧ
+ └─────┘ └─────┘
+ 
+ Задняя полка:
+ ┌─────┐ ┌─────┐
+ │ ■ │ │ ■ │ ← Сабвуферы
+ └─────┘ └─────┘&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="характеристики-динамиков"&gt;Характеристики динамиков&lt;a class="anchor" href="#%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d0%ba%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="передние-двери-bose"&gt;Передние двери (Bose)&lt;a class="anchor" href="#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b2%d0%b5%d1%80%d0%b8-bose"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;2-полосные&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размер НЧ/СЧ&lt;/td&gt;
+ &lt;td&gt;16 см (6.5&amp;quot;)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размер ВЧ&lt;/td&gt;
+ &lt;td&gt;2.5 см (1&amp;quot;)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;40 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Импеданс&lt;/td&gt;
+ &lt;td&gt;2 Ом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="задние-двери-bose"&gt;Задние двери (Bose)&lt;a class="anchor" href="#%d0%b7%d0%b0%d0%b4%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b2%d0%b5%d1%80%d0%b8-bose"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Полнодиапазонные&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размер&lt;/td&gt;
+ &lt;td&gt;16 см (6.5&amp;quot;)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;30 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Импеданс&lt;/td&gt;
+ &lt;td&gt;2 Ом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="сабвуферы-bose"&gt;Сабвуферы (Bose)&lt;a class="anchor" href="#%d1%81%d0%b0%d0%b1%d0%b2%d1%83%d1%84%d0%b5%d1%80%d1%8b-bose"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Низкочастотные&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Размер&lt;/td&gt;
+ &lt;td&gt;20 см (8&amp;quot;) × 2&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;80 Вт (каждый)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Импеданс&lt;/td&gt;
+ &lt;td&gt;2 Ом&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Расположение&lt;/td&gt;
+ &lt;td&gt;Задняя полка&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="усилитель-bose"&gt;Усилитель Bose&lt;a class="anchor" href="#%d1%83%d1%81%d0%b8%d0%bb%d0%b8%d1%82%d0%b5%d0%bb%d1%8c-bose"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Расположение&lt;/td&gt;
+ &lt;td&gt;Багажник (правая сторона)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Каналы&lt;/td&gt;
+ &lt;td&gt;6&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность&lt;/td&gt;
+ &lt;td&gt;265 Вт (суммарно)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Входы&lt;/td&gt;
+ &lt;td&gt;Высокоуровневые&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Выходы&lt;/td&gt;
+ &lt;td&gt;Низкоомные (2 Ом)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="замена-динамиков"&gt;Замена динамиков&lt;a class="anchor" href="#%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%d0%b0-%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d0%ba%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="передние-двери"&gt;Передние двери&lt;a class="anchor" href="#%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%b8%d0%b5-%d0%b4%d0%b2%d0%b5%d1%80%d0%b8"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Необходимые инструменты:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Подушки безопасности</title><link>https://rx8wiki.github.io/docs/electrics/airbags/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/airbags/</guid><description>&lt;h1 id="подушки-безопасности-mazda-rx-8"&gt;Подушки безопасности Mazda RX-8&lt;a class="anchor" href="#%d0%bf%d0%be%d0%b4%d1%83%d1%88%d0%ba%d0%b8-%d0%b1%d0%b5%d0%b7%d0%be%d0%bf%d0%b0%d1%81%d0%bd%d0%be%d1%81%d1%82%d0%b8-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Система пассивной безопасности SRS (Supplemental Restraint System) включает фронтальные и боковые подушки, шторки и ремни с преднатяжителями.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="комплектация-системы-srs"&gt;Комплектация системы SRS&lt;a class="anchor" href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%bb%d0%b5%d0%ba%d1%82%d0%b0%d1%86%d0%b8%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-srs"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Подушка&lt;/th&gt;
+ &lt;th&gt;Количество&lt;/th&gt;
+ &lt;th&gt;Расположение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Водитель&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Рулевое колесо&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Пассажир&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;td&gt;Передняя панель&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Боковые (передние)&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;Передние сиденья&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Шторки&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;td&gt;По бокам крыши&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Дополнительно:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Датчики удара (передние, боковые)&lt;/li&gt;
+&lt;li&gt;Ремни с преднатяжителями (передние)&lt;/li&gt;
+&lt;li&gt;Блок управления SRS&lt;/li&gt;
+&lt;li&gt;Индикатор на приборной панели&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="расположение-компонентов"&gt;Расположение компонентов&lt;a class="anchor" href="#%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; ┌─────────────────────────────────────────┐
+ │ Шторка (левая) │
+ │ ┌───────────────────────────────┐ │
+ │ │ │ │
+ │ ┌─┴─┐ ┌───┴─┐ │
+ │ │ ● │ │ ● │ │ ← Боковые подушки
+ │ └───┘ └─────┘ │
+ │ │
+ │ ┌─────────────────┐ │
+ │ │ ● ● │ │ ← Фронтальные
+ │ │ Водитель Пасс. │ │
+ │ └─────────────────┘ │
+ │ │
+ │ Шторка (правая) │
+ └─────────────────────────────────────────┘&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="датчики-удара"&gt;Датчики удара&lt;a class="anchor" href="#%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba%d0%b8-%d1%83%d0%b4%d0%b0%d1%80%d0%b0"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Датчик&lt;/th&gt;
+ &lt;th&gt;Расположение&lt;/th&gt;
+ &lt;th&gt;Назначение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Передний левый&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;За бампером&lt;/td&gt;
+ &lt;td&gt;Фронтальный удар&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Передний правый&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;За бампером&lt;/td&gt;
+ &lt;td&gt;Фронтальный удар&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Центральный&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Под консолью&lt;/td&gt;
+ &lt;td&gt;Основной датчик&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Боковые&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;В дверях/стойках&lt;/td&gt;
+ &lt;td&gt;Боковой удар&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="блок-управления-srs"&gt;Блок управления SRS&lt;a class="anchor" href="#%d0%b1%d0%bb%d0%be%d0%ba-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-srs"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Расположение:&lt;/strong&gt; Под центральной консолью, между передними сиденьями.&lt;/p&gt;</description></item><item><title>Приборная панель</title><link>https://rx8wiki.github.io/docs/electrics/instrument_cluster/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/instrument_cluster/</guid><description>&lt;h1 id="приборная-панель-mazda-rx-8"&gt;Приборная панель Mazda RX-8&lt;a class="anchor" href="#%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%bd%d0%b0%d1%8f-%d0%bf%d0%b0%d0%bd%d0%b5%d0%bb%d1%8c-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Приборная панель RX-8 содержит всю необходимую информацию о состоянии автомобиля. Рассмотрим индикаторы, датчики и возможные модификации.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="схема-приборной-панели"&gt;Схема приборной панели&lt;a class="anchor" href="#%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%bf%d1%80%d0%b8%d0%b1%d0%be%d1%80%d0%bd%d0%be%d0%b9-%d0%bf%d0%b0%d0%bd%d0%b5%d0%bb%d0%b8"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; ┌────────────────────────────────────────────────────┐
+ │ │
+ │ ┌──────────┐ ┌──────────┐ │
+ │ │ │ │ │ │
+ │ │ Тахометр│ │ Спидометр│ │
+ │ │ │ │ │ │
+ │ │ ● │ │ ● │ │
+ │ │ │ │ │ │
+ │ └──────────┘ └──────────┘ │
+ │ │
+ │ ┌──────────────────────────────────────┐ │
+ │ │ Дисплей (температура, пробег, etc.) │ │
+ │ └──────────────────────────────────────┘ │
+ │ │
+ │ ┌──────────────────────────────────────┐ │
+ │ │ Индикаторы │ │
+ │ └──────────────────────────────────────┘ │
+ └────────────────────────────────────────────────────┘&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="датчики-и-индикаторы"&gt;Датчики и индикаторы&lt;a class="anchor" href="#%d0%b4%d0%b0%d1%82%d1%87%d0%b8%d0%ba%d0%b8-%d0%b8-%d0%b8%d0%bd%d0%b4%d0%b8%d0%ba%d0%b0%d1%82%d0%be%d1%80%d1%8b"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="тахометр"&gt;Тахометр&lt;a class="anchor" href="#%d1%82%d0%b0%d1%85%d0%be%d0%bc%d0%b5%d1%82%d1%80"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Диапазон&lt;/td&gt;
+ &lt;td&gt;0–10 000 об/мин&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Красная зона&lt;/td&gt;
+ &lt;td&gt;7500 об/мин&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Отсечка&lt;/td&gt;
+ &lt;td&gt;7500 об/мин (сток)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Цена деления&lt;/td&gt;
+ &lt;td&gt;1000 об/мин&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Кондиционер (климат-контроль)</title><link>https://rx8wiki.github.io/docs/electrics/ac_climate/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/ac_climate/</guid><description>&lt;h1 id="кондиционер-и-климат-контроль-mazda-rx-8"&gt;Кондиционер и климат-контроль Mazda RX-8&lt;a class="anchor" href="#%d0%ba%d0%be%d0%bd%d0%b4%d0%b8%d1%86%d0%b8%d0%be%d0%bd%d0%b5%d1%80-%d0%b8-%d0%ba%d0%bb%d0%b8%d0%bc%d0%b0%d1%82-%d0%ba%d0%be%d0%bd%d1%82%d1%80%d0%be%d0%bb%d1%8c-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Система климат-контроля RX-8 обеспечивает комфортную температуру в салоне независимо от погодных условий.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="типы-систем"&gt;Типы систем&lt;a class="anchor" href="#%d1%82%d0%b8%d0%bf%d1%8b-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Комплектация&lt;/th&gt;
+ &lt;th&gt;Система&lt;/th&gt;
+ &lt;th&gt;Управление&lt;/th&gt;
+ &lt;th&gt;Зоны&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Базовая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Кондиционер&lt;/td&gt;
+ &lt;td&gt;Механическое&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Средняя&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Климат-контроль&lt;/td&gt;
+ &lt;td&gt;Электронное&lt;/td&gt;
+ &lt;td&gt;1&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Люкс&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Климат-контроль&lt;/td&gt;
+ &lt;td&gt;Электронное&lt;/td&gt;
+ &lt;td&gt;2&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="технические-характеристики"&gt;Технические характеристики&lt;a class="anchor" href="#%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="хладагент"&gt;Хладагент&lt;a class="anchor" href="#%d1%85%d0%bb%d0%b0%d0%b4%d0%b0%d0%b3%d0%b5%d0%bd%d1%82"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;R134a&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ёмкость системы&lt;/td&gt;
+ &lt;td&gt;450–500 г&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип масла&lt;/td&gt;
+ &lt;td&gt;PAG 46&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ёмкость масла&lt;/td&gt;
+ &lt;td&gt;120–150 мл&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote class='book-hint '&gt;
+&lt;p&gt;⚠️ &lt;strong&gt;Важно:&lt;/strong&gt; Не смешивайте разные типы хладагента! R134a и R1234yf несовместимы.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;h3 id="компрессор"&gt;Компрессор&lt;a class="anchor" href="#%d0%ba%d0%be%d0%bc%d0%bf%d1%80%d0%b5%d1%81%d1%81%d0%be%d1%80"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Поршневой, с регулируемой производительностью&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Привод&lt;/td&gt;
+ &lt;td&gt;Ременной (от двигателя)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Муфта&lt;/td&gt;
+ &lt;td&gt;Электромагнитная&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Производитель&lt;/td&gt;
+ &lt;td&gt;Denso, Sanden, Panasonic&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="конденсор"&gt;Конденсор&lt;a class="anchor" href="#%d0%ba%d0%be%d0%bd%d0%b4%d0%b5%d0%bd%d1%81%d0%be%d1%80"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Расположение&lt;/td&gt;
+ &lt;td&gt;Перед радиатором двигателя&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Алюминиевый, многопоточный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Вентилятор&lt;/td&gt;
+ &lt;td&gt;Общий с двигателем&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="испаритель"&gt;Испаритель&lt;a class="anchor" href="#%d0%b8%d1%81%d0%bf%d0%b0%d1%80%d0%b8%d1%82%d0%b5%d0%bb%d1%8c"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Расположение&lt;/td&gt;
+ &lt;td&gt;Под торпедой (в блоке отопителя)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Пластинчато-ребристый&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Дренаж&lt;/td&gt;
+ &lt;td&gt;Выводится под автомобиль&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="органы-управления"&gt;Органы управления&lt;a class="anchor" href="#%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="базовая-система-кондиционер"&gt;Базовая система (кондиционер)&lt;a class="anchor" href="#%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%8f-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%ba%d0%be%d0%bd%d0%b4%d0%b8%d1%86%d0%b8%d0%be%d0%bd%d0%b5%d1%80"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; ┌─────────────────────────────────┐
+ │ ┌─────┐ ┌─────┐ ┌─────┐ │
+ │ │ A/C │ │ ❄️ │ │ 🔄 │ │
+ │ └─────┘ └─────┘ └─────┘ │
+ │ │
+ │ ┌─────────────────────────┐ │
+ │ │ Регулятор темп. │ │
+ │ │ 🔵 ◄─────► 🔴 │ │
+ │ └─────────────────────────┘ │
+ │ │
+ │ ┌─────┐ ┌─────┐ ┌─────┐ │
+ │ │ 💨 │ │ 🪟 │ │ 🦶 │ │
+ │ └─────┘ └─────┘ └─────┘ │
+ └─────────────────────────────────┘&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Кнопки:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Стеклоподъемники</title><link>https://rx8wiki.github.io/docs/electrics/power_windows/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/power_windows/</guid><description>&lt;h1 id="стеклоподъемники-mazda-rx-8"&gt;Стеклоподъемники Mazda RX-8&lt;a class="anchor" href="#%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%be%d0%bf%d0%be%d0%b4%d1%8a%d0%b5%d0%bc%d0%bd%d0%b8%d0%ba%d0%b8-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Электрические стеклоподъемники RX-8 обеспечивают комфортное управление окнами всех дверей. Рассмотрим устройство, диагностику и ремонт системы.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="характеристики-системы"&gt;Характеристики системы&lt;a class="anchor" href="#%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Электрические, 4 двери&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Управление&lt;/td&gt;
+ &lt;td&gt;Кнопки на дверях&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Автоподъем&lt;/td&gt;
+ &lt;td&gt;Все 4 окна (водитель)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Защита от защемления&lt;/td&gt;
+ &lt;td&gt;Только водительское&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Напряжение&lt;/td&gt;
+ &lt;td&gt;12 В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Мощность мотора&lt;/td&gt;
+ &lt;td&gt;20–30 Вт&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="расположение-компонентов"&gt;Расположение компонентов&lt;a class="anchor" href="#%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="кнопки-управления"&gt;Кнопки управления&lt;a class="anchor" href="#%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b8-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; Дверь водителя:
+ ┌─────────────────────────┐
+ │ ┌───┐ ┌───┐ ┌───┐ ┌───┐ │
+ │ │ В │ │ П │ │ ЗЛ│ │ ЗП│ │ ← Кнопки окон
+ │ └───┘ └───┘ └───┘ └───┘ │
+ │ │
+ │ ┌─────────────────────┐ │
+ │ │ Блокировка окон │ │
+ │ └─────────────────────┘ │
+ └─────────────────────────┘
+ 
+ Двери пассажира и задние:
+ ┌─────────────────────────┐
+ │ ┌───────────────────┐ │
+ │ │ Одно окно │ │
+ │ └───────────────────┘ │
+ └─────────────────────────┘&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="моторы-стеклоподъемников"&gt;Моторы стеклоподъемников&lt;a class="anchor" href="#%d0%bc%d0%be%d1%82%d0%be%d1%80%d1%8b-%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%be%d0%bf%d0%be%d0%b4%d1%8a%d0%b5%d0%bc%d0%bd%d0%b8%d0%ba%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Дверь&lt;/th&gt;
+ &lt;th&gt;Расположение мотора&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Передняя левая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;В двери, на механизме&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Передняя правая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;В двери, на механизме&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Задняя левая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;В двери, на механизме&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Задняя правая&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;В двери, на механизме&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="устройство-стеклоподъемника"&gt;Устройство стеклоподъемника&lt;a class="anchor" href="#%d1%83%d1%81%d1%82%d1%80%d0%be%d0%b9%d1%81%d1%82%d0%b2%d0%be-%d1%81%d1%82%d0%b5%d0%ba%d0%bb%d0%be%d0%bf%d0%be%d0%b4%d1%8a%d0%b5%d0%bc%d0%bd%d0%b8%d0%ba%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="механизм"&gt;Механизм&lt;a class="anchor" href="#%d0%bc%d0%b5%d1%85%d0%b0%d0%bd%d0%b8%d0%b7%d0%bc"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; ┌─────────────────────────────────┐
+ │ │
+ │ ┌───────────────────────┐ │
+ │ │ Стекло │ │
+ │ │ │ │
+ │ └───────────────────────┘ │
+ │ │ │ │
+ │ ┌──────┴─────┴──────┐ │
+ │ │ Направляющие │ │
+ │ └───────────────────┘ │
+ │ │ │
+ │ ┌──────┴──────┐ │
+ │ │ Механизм │ │
+ │ │ (трос/рычаг)│ │
+ │ └──────┬──────┘ │
+ │ │ │
+ │ ┌──────┴──────┐ │
+ │ │ Мотор │ │
+ │ └─────────────┘ │
+ └─────────────────────────────────┘&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="типы-механизмов"&gt;Типы механизмов&lt;a class="anchor" href="#%d1%82%d0%b8%d0%bf%d1%8b-%d0%bc%d0%b5%d1%85%d0%b0%d0%bd%d0%b8%d0%b7%d0%bc%d0%be%d0%b2"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Тип&lt;/th&gt;
+ &lt;th&gt;Особенности&lt;/th&gt;
+ &lt;th&gt;Надёжность&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Тросовый&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Лёгкий, компактный&lt;/td&gt;
+ &lt;td&gt;Средняя&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Рычажный&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Надёжный, долговечный&lt;/td&gt;
+ &lt;td&gt;Высокая&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Реечный&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Редко встречается&lt;/td&gt;
+ &lt;td&gt;Высокая&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;На RX-8:&lt;/strong&gt; Тросовый механизм с пластиковыми роликами.&lt;/p&gt;</description></item><item><title>Генератор</title><link>https://rx8wiki.github.io/docs/electrics/alternator/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/electrics/alternator/</guid><description>&lt;h1 id="генератор-mazda-rx-8"&gt;Генератор Mazda RX-8&lt;a class="anchor" href="#%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-mazda-rx-8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Генератор обеспечивает зарядку аккумуляторной батареи и питание всех электрических систем автомобиля при работающем двигателе.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="характеристики-генератора"&gt;Характеристики генератора&lt;a class="anchor" href="#%d1%85%d0%b0%d1%80%d0%b0%d0%ba%d1%82%d0%b5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b8-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Параметр&lt;/th&gt;
+ &lt;th&gt;Значение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Тип&lt;/td&gt;
+ &lt;td&gt;Переменного тока, с выпрямителем&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Напряжение&lt;/td&gt;
+ &lt;td&gt;12 В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ток зарядки&lt;/td&gt;
+ &lt;td&gt;110 А (сток)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Напряжение зарядки&lt;/td&gt;
+ &lt;td&gt;13.8–14.5 В&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Производитель&lt;/td&gt;
+ &lt;td&gt;Denso, Mitsubishi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ремень привода&lt;/td&gt;
+ &lt;td&gt;6PK1150 (6 ручьёв, 1150 мм)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="устройство-генератора"&gt;Устройство генератора&lt;a class="anchor" href="#%d1%83%d1%81%d1%82%d1%80%d0%be%d0%b9%d1%81%d1%82%d0%b2%d0%be-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; ┌─────────────────────────────────────────┐
+ │ │
+ │ ┌───────────────────────────────┐ │
+ │ │ Статор │ │
+ │ │ (обмотка возбуждения) │ │
+ │ └───────────────────────────────┘ │
+ │ │
+ │ ┌───────────────────────────────┐ │
+ │ │ Ротор │ │
+ │ │ (вращающаяся часть) │ │
+ │ └───────────────────────────────┘ │
+ │ │
+ │ ┌──────────┐ ┌──────────┐ │
+ │ │ Щётки │ │ Реле │ │
+ │ │ │ │-регулятор│ │
+ │ └──────────┘ └──────────┘ │
+ │ │
+ │ ┌───────────────────────────────┐ │
+ │ │ Выпрямительный мост │ │
+ │ │ (диоды) │ │
+ │ └───────────────────────────────┘ │
+ │ │
+ │ ┌──────────┐ ┌──────────┐ │
+ │ │ Шкив │ │ Подшипник│ │
+ │ │ │ │ │ │
+ │ └──────────┘ └──────────┘ │
+ └─────────────────────────────────────────┘&lt;/code&gt;&lt;/pre&gt;&lt;h3 id="основные-компоненты"&gt;Основные компоненты&lt;a class="anchor" href="#%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d1%8b"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Компонент&lt;/th&gt;
+ &lt;th&gt;Назначение&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Статор&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Неподвижная обмотка, генерация тока&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Ротор&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Вращающаяся часть, создаёт магнитное поле&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Щётки&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Подача тока на обмотку ротора&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Реле-регулятор&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Контроль напряжения зарядки&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Выпрямительный мост&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Преобразование переменного тока в постоянный&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Подшипники&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Обеспечивают вращение ротора&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Шкив&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Передача вращения от двигателя&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="принцип-работы"&gt;Принцип работы&lt;a class="anchor" href="#%d0%bf%d1%80%d0%b8%d0%bd%d1%86%d0%b8%d0%bf-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt; Двигатель
+ │
+ ▼ (через ремень)
+ Шкив генератора
+ │
+ ▼
+ Ротор (вращается)
+ │
+ ▼ (электромагнитное поле)
+ Статор (неподвижен)
+ │
+ ▼ (переменный ток)
+ Выпрямительный мост (диоды)
+ │
+ ▼ (постоянный ток)
+ Выход на АКБ и бортовую сеть
+ │
+ ▼
+ Реле-регулятор (контроль напряжения)&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="диагностика-генератора"&gt;Диагностика генератора&lt;a class="anchor" href="#%d0%b4%d0%b8%d0%b0%d0%b3%d0%bd%d0%be%d1%81%d1%82%d0%b8%d0%ba%d0%b0-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%b0"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="признаки-неисправности"&gt;Признаки неисправности&lt;a class="anchor" href="#%d0%bf%d1%80%d0%b8%d0%b7%d0%bd%d0%b0%d0%ba%d0%b8-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b8"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Симптом&lt;/th&gt;
+ &lt;th&gt;Возможная причина&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Индикатор АКБ горит&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Неисправность генератора, обрыв ремня&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Низкое напряжение&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Износ щёток, неисправность реле&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Перезаряд АКБ&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Неисправность реле-регулятора&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Шум при работе&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Износ подшипников&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Запах гари&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Перегрев, короткое замыкание&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Тусклый свет фар&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Недостаточная зарядка&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;Быстрый разряд АКБ&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Слабая зарядка от генератора&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="проверка-напряжения"&gt;Проверка напряжения&lt;a class="anchor" href="#%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b0-%d0%bd%d0%b0%d0%bf%d1%80%d1%8f%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Необходимые инструменты:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title/><link>https://rx8wiki.github.io/docs/dvigatel/compression/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rx8wiki.github.io/docs/dvigatel/compression/</guid><description/></item></channel></rss>
