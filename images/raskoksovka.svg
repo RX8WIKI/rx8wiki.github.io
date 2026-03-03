@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a252f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="liquidGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e8449;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Bottle -->
+  <g transform="translate(150, 60)">
+    <rect x="40" y="0" width="40" height="60" rx="5" fill="#e74c3c"/>
+    <rect x="30" y="60" width="60" height="180" rx="10" fill="#c0392b"/>
+    <rect x="40" y="80" width="40" height="140" rx="5" fill="#e74c3c" opacity="0.5"/>
+    
+    <!-- Label -->
+    <rect x="45" y="100" width="30" height="50" rx="3" fill="#ecf0f1"/>
+    <text x="60" y="120" text-anchor="middle" font-family="Arial" font-size="8" font-weight="bold" fill="#2c3e50">Shumma</text>
+    <text x="60" y="135" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#2c3e50">GX-2</text>
+  </g>
+  
+  <!-- Second bottle -->
+  <g transform="translate(250, 60)">
+    <rect x="40" y="0" width="40" height="60" rx="5" fill="#3498db"/>
+    <rect x="30" y="60" width="60" height="180" rx="10" fill="#2980b9"/>
+    <rect x="40" y="80" width="40" height="140" rx="5" fill="#3498db" opacity="0.5"/>
+    
+    <!-- Label -->
+    <rect x="45" y="100" width="30" height="50" rx="3" fill="#ecf0f1"/>
+    <text x="60" y="120" text-anchor="middle" font-family="Arial" font-size="8" font-weight="bold" fill="#2c3e50">Gzox</text>
+  </g>
+  
+  <!-- Engine cylinder hint -->
+  <g transform="translate(400, 100)">
+    <rect x="0" y="0" width="120" height="150" rx="10" fill="#34495e"/>
+    <rect x="15" y="15" width="90" height="120" rx="5" fill="#2c3e50"/>
+    
+    <!-- Liquid inside -->
+    <rect x="20" y="80" width="80" height="50" rx="3" fill="url(#liquidGradient)" opacity="0.7"/>
+    
+    <!-- Bubbles -->
+    <circle cx="40" cy="70" r="5" fill="#27ae60" opacity="0.5"/>
+    <circle cx="70" cy="60" r="4" fill="#27ae60" opacity="0.5"/>
+    <circle cx="55" cy="50" r="6" fill="#27ae60" opacity="0.5"/>
+    
+    <text x="60" y="140" text-anchor="middle" font-family="Arial" font-size="10" fill="#bdc3c7">Цилиндр</text>
+  </g>
+  
+  <!-- Text -->
+  <text x="450" y="60" font-family="Arial" font-size="42" font-weight="bold" fill="#ecf0f1">РАСКОКСОВКА</text>
+  <text x="450" y="95" font-family="Arial" font-size="18" fill="#bdc3c7">Очистка от нагара</text>
+  
+  <!-- Steps -->
+  <g transform="translate(450, 130)">
+    <circle cx="15" cy="15" r="12" fill="#e74c3c"/>
+    <text x="15" y="20" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#fff">1</text>
+    <text x="35" y="20" font-family="Arial" font-size="12" fill="#ecf0f1">Прогреть двигатель</text>
+    
+    <circle cx="15" cy="45" r="12" fill="#f39c12"/>
+    <text x="15" y="50" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#2c3e50">2</text>
+    <text x="35" y="50" font-family="Arial" font-size="12" fill="#ecf0f1">Выкрутить свечи</text>
+    
+    <circle cx="15" cy="75" r="12" fill="#3498db"/>
+    <text x="15" y="80" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#fff">3</text>
+    <text x="35" y="80" font-family="Arial" font-size="12" fill="#ecf0f1">Залить препарат (200 мл)</text>
+    
+    <circle cx="15" cy="105" r="12" fill="#27ae60"/>
+    <text x="15" y="110" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#fff">4</text>
+    <text x="35" y="110" font-family="Arial" font-size="12" fill="#ecf0f1">Выждать 6–12 часов</text>
+    
+    <circle cx="15" cy="135" r="12" fill="#9b59b6"/>
+    <text x="15" y="140" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#fff">5</text>
+    <text x="35" y="140" font-family="Arial" font-size="12" fill="#ecf0f1">Заменить масло</text>
+  </g>
+  
+  <!-- Effectiveness -->
+  <g transform="translate(450, 290)">
+    <rect x="0" y="0" width="280" height="60" rx="10" fill="#34495e"/>
+    <text x="140" y="25" text-anchor="middle" font-family="Arial" font-size="11" fill="#bdc3c7">Эффект:</text>
+    <text x="140" y="45" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#27ae60">+0.5–1.0 кгс/см² компрессии</text>
+  </g>
+</svg>
