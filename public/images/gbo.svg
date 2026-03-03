@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a252f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gasGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e8449;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Gas tank -->
+  <g transform="translate(100, 100)">
+    <ellipse cx="80" cy="80" rx="70" ry="90" fill="url(#gasGradient)"/>
+    <rect x="30" y="20" width="100" height="120" rx="10" fill="url(#gasGradient)"/>
+    <ellipse cx="80" cy="20" rx="70" ry="30" fill="url(#gasGradient)"/>
+    
+    <!-- Valve -->
+    <circle cx="80" cy="10" r="15" fill="#34495e"/>
+    <rect x="70" y="-20" width="20" height="30" fill="#2c3e50"/>
+    
+    <!-- Label -->
+    <rect x="45" y="60" width="70" height="40" rx="5" fill="#ecf0f1" opacity="0.9"/>
+    <text x="80" y="80" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="#2c3e50">PROPANE</text>
+    <text x="80" y="95" text-anchor="middle" font-family="Arial" font-size="8" fill="#2c3e50">BUTANE</text>
+  </g>
+  
+  <!-- Engine with question mark -->
+  <g transform="translate(350, 100)">
+    <rect x="0" y="0" width="120" height="100" rx="10" fill="#34495e"/>
+    <circle cx="35" cy="50" r="20" fill="#2c3e50"/>
+    <circle cx="85" cy="50" r="20" fill="#2c3e50"/>
+    
+    <!-- Question mark -->
+    <text x="60" y="45" text-anchor="middle" font-family="Arial" font-size="48" font-weight="bold" fill="#e74c3c">?</text>
+  </g>
+  
+  <!-- Connecting pipe -->
+  <path d="M190 150 L230 150 L230 150" stroke="#7f8c8d" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="450" y="60" font-family="Arial" font-size="42" font-weight="bold" fill="#ecf0f1">ГАЗ (ГБО)</text>
+  <text x="450" y="95" font-family="Arial" font-size="18" fill="#bdc3c7">Установка на РПД</text>
+  
+  <!-- Warning box -->
+  <g transform="translate(450, 130)">
+    <rect x="0" y="0" width="300" height="70" rx="10" fill="#e74c3c"/>
+    <text x="150" y="30" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="#fff">⚠️ НЕ РЕКОМЕНДУЕТСЯ!</text>
+    <text x="150" y="50" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">Риск ускоренного износа двигателя</text>
+  </g>
+  
+  <!-- Pros/Cons -->
+  <g transform="translate(450, 220)">
+    <rect x="0" y="0" width="140" height="120" rx="10" fill="#2c3e50"/>
+    <text x="70" y="25" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#27ae60">ЗА:</text>
+    <text x="10" y="45" font-family="Arial" font-size="9" fill="#bdc3c7">• Экономия 40–50%</text>
+    <text x="10" y="60" font-family="Arial" font-size="9" fill="#bdc3c7">• Дешевле бензина</text>
+    <text x="10" y="75" font-family="Arial" font-size="9" fill="#bdc3c7">• Экологичнее</text>
+    <text x="10" y="90" font-family="Arial" font-size="9" fill="#bdc3c7">• Окупаемость 2–3 года</text>
+    
+    <rect x="155" y="0" width="140" height="120" rx="10" fill="#2c3e50"/>
+    <text x="225" y="25" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#e74c3c">ПРОТИВ:</text>
+    <text x="165" y="45" font-family="Arial" font-size="9" fill="#bdc3c7">• Нет смазки</text>
+    <text x="165" y="60" font-family="Arial" font-size="9" fill="#bdc3c7">• Перегрев</text>
+    <text x="165" y="75" font-family="Arial" font-size="9" fill="#bdc3c7">• Износ апексов</text>
+    <text x="165" y="90" font-family="Arial" font-size="9" fill="#bdc3c7">• Потеря гарантии</text>
+  </g>
+  
+  <!-- Conclusion -->
+  <g transform="translate(450, 360)">
+    <text x="0" y="0" font-family="Arial" font-size="11" fill="#f39c12">Вывод: Не рекомендуется для РПД!</text>
+  </g>
+</svg>

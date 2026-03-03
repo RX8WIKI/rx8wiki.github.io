@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a252f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="oilGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d68910;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Oil injector -->
+  <g transform="translate(200, 80)">
+    <!-- Body -->
+    <rect x="40" y="0" width="40" height="120" rx="5" fill="#7f8c8d"/>
+    <rect x="45" y="10" width="30" height="100" rx="3" fill="#95a5a6"/>
+    
+    <!-- Nozzle -->
+    <polygon points="50,120 40,150 60,150" fill="#34495e"/>
+    <circle cx="50" cy="150" r="5" fill="#2c3e50"/>
+    
+    <!-- Oil spray -->
+    <circle cx="50" cy="165" r="3" fill="url(#oilGradient)"/>
+    <circle cx="40" cy="175" r="2" fill="url(#oilGradient)"/>
+    <circle cx="60" cy="175" r="2" fill="url(#oilGradient)"/>
+    <circle cx="50" cy="185" r="2" fill="url(#oilGradient)"/>
+    
+    <!-- Connector -->
+    <rect x="35" y="-10" width="50" height="15" rx="3" fill="#34495e"/>
+    <circle cx="45" cy="-3" r="4" fill="#2c3e50"/>
+    <circle cx="75" cy="-3" r="4" fill="#2c3e50"/>
+  </g>
+  
+  <!-- Second injector -->
+  <g transform="translate(300, 80)">
+    <rect x="40" y="0" width="40" height="120" rx="5" fill="#7f8c8d"/>
+    <rect x="45" y="10" width="30" height="100" rx="3" fill="#95a5a6"/>
+    <polygon points="50,120 40,150 60,150" fill="#34495e"/>
+    <circle cx="50" cy="150" r="5" fill="#2c3e50"/>
+    
+    <circle cx="50" cy="165" r="3" fill="url(#oilGradient)"/>
+    <circle cx="40" cy="175" r="2" fill="url(#oilGradient)"/>
+    <circle cx="60" cy="175" r="2" fill="url(#oilGradient)"/>
+    <circle cx="50" cy="185" r="2" fill="url(#oilGradient)"/>
+    
+    <rect x="35" y="-10" width="50" height="15" rx="3" fill="#34495e"/>
+    <circle cx="45" cy="-3" r="4" fill="#2c3e50"/>
+    <circle cx="75" cy="-3" r="4" fill="#2c3e50"/>
+  </g>
+  
+  <!-- Engine hint -->
+  <g transform="translate(450, 120)">
+    <rect x="0" y="0" width="150" height="120" rx="10" fill="#34495e" opacity="0.5"/>
+    <circle cx="40" cy="60" r="25" fill="#2c3e50"/>
+    <circle cx="110" cy="60" r="25" fill="#2c3e50"/>
+    <text x="75" y="100" text-anchor="middle" font-family="Arial" font-size="10" fill="#bdc3c7">Двигатель</text>
+  </g>
+  
+  <!-- Text -->
+  <text x="450" y="60" font-family="Arial" font-size="42" font-weight="bold" fill="#ecf0f1">МАСЛЯНЫЕ</text>
+  <text x="450" y="100" font-family="Arial" font-size="28" font-weight="bold" fill="#f39c12">ФОРСУНКИ</text>
+  
+  <!-- Function -->
+  <g transform="translate(450, 180)">
+    <rect x="0" y="0" width="300" height="80" rx="10" fill="#34495e"/>
+    <text x="150" y="30" text-anchor="middle" font-family="Arial" font-size="12" fill="#bdc3c7">Назначение:</text>
+    <text x="150" y="50" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">Подача масла к апексам</text>
+    <text x="150" y="65" text-anchor="middle" font-family="Arial" font-size="11" fill="#ecf0f1">Смазка уплотнений ротора</text>
+  </g>
+  
+  <!-- Symptoms -->
+  <g transform="translate(450, 280)">
+    <text x="0" y="0" font-family="Arial" font-size="12" font-weight="bold" fill="#e74c3c">Признаки неисправности:</text>
+    <text x="10" y="20" font-family="Arial" font-size="10" fill="#bdc3c7">• Повышенный износ апексов</text>
+    <text x="10" y="35" font-family="Arial" font-size="10" fill="#bdc3c7">• Падение компрессии</text>
+    <text x="10" y="50" font-family="Arial" font-size="10" fill="#bdc3c7">• Стук при запуске</text>
+  </g>
+  
+  <!-- Oil drop -->
+  <g transform="translate(380, 250)">
+    <path d="M0 0 Q-10 20 0 40 Q10 20 0 0" fill="url(#oilGradient)"/>
+  </g>
+</svg>

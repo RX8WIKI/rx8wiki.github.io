@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a252f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="filterGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ecf0f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bdc3c7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Air filter -->
+  <g transform="translate(150, 100)">
+    <rect x="0" y="0" width="200" height="140" rx="10" fill="#34495e"/>
+    <rect x="10" y="10" width="180" height="120" rx="5" fill="url(#filterGradient)"/>
+    
+    <!-- Pleats -->
+    <line x1="30" y1="20" x2="30" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="50" y1="20" x2="50" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="70" y1="20" x2="70" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="90" y1="20" x2="90" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="110" y1="20" x2="110" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="130" y1="20" x2="130" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="150" y1="20" x2="150" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    <line x1="170" y1="20" x2="170" y2="120" stroke="#95a5a6" stroke-width="2"/>
+    
+    <!-- Frame -->
+    <rect x="0" y="0" width="200" height="140" rx="10" fill="none" stroke="#e74c3c" stroke-width="3"/>
+  </g>
+  
+  <!-- Dirty filter comparison -->
+  <g transform="translate(400, 100)">
+    <rect x="0" y="0" width="200" height="140" rx="10" fill="#34495e"/>
+    <rect x="10" y="10" width="180" height="120" rx="5" fill="#4a4a4a"/>
+    
+    <!-- Dirty pleats -->
+    <line x1="30" y1="20" x2="30" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="50" y1="20" x2="50" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="70" y1="20" x2="70" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="90" y1="20" x2="90" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="110" y1="20" x2="110" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="130" y1="20" x2="130" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="150" y1="20" x2="150" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    <line x1="170" y1="20" x2="170" y2="120" stroke="#2c3e50" stroke-width="2"/>
+    
+    <!-- X mark -->
+    <line x1="20" y1="20" x2="180" y2="120" stroke="#e74c3c" stroke-width="4"/>
+    <line x1="180" y1="20" x2="20" y2="120" stroke="#e74c3c" stroke-width="4"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="400" y="60" text-anchor="middle" font-family="Arial" font-size="42" font-weight="bold" fill="#ecf0f1">ВОЗДУШНЫЙ ФИЛЬТР</text>
+  
+  <!-- Info boxes -->
+  <g transform="translate(150, 280)">
+    <rect x="0" y="0" width="200" height="80" rx="10" fill="#27ae60"/>
+    <text x="100" y="30" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#fff">Новый</text>
+    <text x="100" y="50" text-anchor="middle" font-family="Arial" font-size="10" fill="#ecf0f1">Отличный поток</text>
+    <text x="100" y="65" text-anchor="middle" font-family="Arial" font-size="10" fill="#ecf0f1">Чистый воздух</text>
+  </g>
+  
+  <g transform="translate(450, 280)">
+    <rect x="0" y="0" width="200" height="80" rx="10" fill="#e74c3c"/>
+    <text x="100" y="30" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#fff">Грязный</text>
+    <text x="100" y="50" text-anchor="middle" font-family="Arial" font-size="10" fill="#ecf0f1">Потеря мощности</text>
+    <text x="100" y="65" text-anchor="middle" font-family="Arial" font-size="10" fill="#ecf0f1">Перерасход топлива</text>
+  </g>
+  
+  <!-- Interval -->
+  <g transform="translate(280, 380)">
+    <text x="0" y="0" text-anchor="middle" font-family="Arial" font-size="14" fill="#bdc3c7">Замена каждые</text>
+    <text x="120" y="0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#f39c12">30 000 км</text>
+  </g>
+</svg>
