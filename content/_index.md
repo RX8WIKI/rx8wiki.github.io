@@ -14,37 +14,38 @@ title: "RX-8 Wiki"
 <div class="home-section">
 <h2 class="icon-operation">Эксплуатация</h2>
 <ul>
-<li>ЧаВо (FAQ)</li>
-<li>График ТО</li>
-<li>Зимний сезон</li>
-<li>Бензин</li>
-<li>Масла</li>
-<li>Антифриз</li>
-<li>Документация / Литература</li>
-<li>Коды Check Engine (CEL)</li>
-<li>Комплектации</li>
-<li>Таблица цветов кузова</li>
-<li>Номера з/ч-заменителей</li>
-<li>Оригинальные аксессуары</li>
+<li><a href="/docs/ekspluataciya/faq">ЧаВо (FAQ)</a></li>
+<li><a href="/docs/ekspluataciya/grafik_to">График ТО</a></li>
+<li><a href="/docs/ekspluataciya/zimnij_sezon">Зимний сезон</a></li>
+<li><a href="/docs/ekspluataciya/benzin">Бензин</a></li>
+<li><a href="/docs/ekspluataciya/masla">Масла</a></li>
+<li><a href="/docs/ekspluataciya/antifriz">Антифриз</a></li>
+<li><a href="/docs/ekspluataciya/dokumentaciya">Документация / Литература</a></li>
+<li><a href="/docs/ekspluataciya/kody_ce">Коды Check Engine (CEL)</a></li>
+<li><a href="/docs/ekspluataciya/komplektacii">Комплектации</a></li>
+<li><a href="/docs/ekspluataciya/cvet_kuzova">Таблица цветов кузова</a></li>
+<li><a href="/docs/ekspluataciya/nomera_zapchastej">Номера з/ч-заменителей</a></li>
+<li><a href="/docs/ekspluataciya/aksessuary">Оригинальные аксессуары</a></li>
 </ul>
 </div>
 
 <div class="home-section">
 <h2 class="icon-engine">Двигатель</h2>
 <ul>
-<li>Диагностика (Симптомы)</li>
+<li><a href="/docs/dvigatel/diagnostika">Диагностика (Симптомы)</a></li>
 <li><strong><a href="/docs/dvigatel/zamer_kompressii">Замер компрессии</a></strong></li>
-<li>Доработки</li>
-<li>Ремонт (Переборка)</li>
+<li><a href="/docs/dvigatel/dorabotki">Доработки</a></li>
+<li><a href="/docs/dvigatel/remont">Ремонт (Переборка)</a></li>
 <li><strong><a href="/docs/dvigatel/svechi_katushki">Свечи и катушки зажигания</a></strong></li>
 <li><strong><a href="/docs/dvigatel/raskoksovka">Раскоксовка</a></strong></li>
 <li><strong><a href="/docs/dvigatel/vozdushnyj_filtr">Воздушный фильтр</a></strong></li>
 <li><strong><a href="/docs/dvigatel/maslyanye_forsunki">Масляные форсунки</a></strong></li>
-<li>Катализатор и лямбда-зонды</li>
-<li>Топливная система</li>
-<li>Газ (ГБО)</li>
+<li><a href="/docs/dvigatel/oil">Масла</a></li>
+<li><a href="/docs/dvigatel/katalizator">Катализатор и лямбда-зонды</a></li>
+<li><a href="/docs/dvigatel/toplivnaya_sistema">Топливная система</a></li>
+<li><a href="/docs/dvigatel/gbo">Газ (ГБО)</a></li>
 <li class="red"><a href="/docs/dvigatel/rpd">Роторно-Поршневой ДВС</a></li>
-<li>Феликс Ванкель</li>
+<li><a href="/docs/dvigatel/vankel">Феликс Ванкель</a></li>
 </ul>
 </div>
 
